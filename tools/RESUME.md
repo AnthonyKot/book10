@@ -39,10 +39,25 @@
   (resources/au-y910-source-note.txt: no title at 15, one named author — Shakespeare),
   be/ch/no ledgers (all three exist now, no's authored by terra 2026-08-11).
 
+## LATE-EVENING UPDATE (23:00) — the book exists now
+
+The reader granted full editorial freedom ("follow your instinct... it was your idea").
+Done under it: PLAN.md = the spine (open on the memorization chapter, post-Soviet
+quartet as the core, close on There Is No World Canon); drafts/reader/00-poem.md =
+chapter 00, written; ru audit's 8 fixes applied INCLUDING a corpus repair (row 1
+choice-list→mandatory, recon addendum — 12 mandatory foreign rows) and the Little
+Prince close-read (the only foreign book required whole); v6 artifact = ELEVEN chapters
+in spine order, live at 10484a25. notes/coldsweep-2026-08-11.md is the polish wave's
+contract: kill the visible formula (uniform can't-know landers, count-before-
+consequence, second-person closes ×9), cut a quarter of the mechanics, give each
+chapter its dramatic verb (Ukraine memorizes, Vietnam leaves blanks, Bolivia stages,
+China reflects, Brazil admits, Australia collides, America chooses, India subtracts,
+England domesticates). Per-chapter strongest-cut list is in the sweep file.
+
 ## Next steps (in order)
 
-1. Check ru audit/transcheck results; fix; cut ru for the reader edition; republish
-   artifact (10 chapters).
+1. POLISH WAVE per the cold sweep: nine cuts + ch. 00, one pass each against the
+   sweep's per-chapter fix + the shared-disease rules. Then republish v7.
 2. **BY questions to the reader — STILL OPEN, the last wave-1 gate:**
    (b) what did they memorize by heart at school? ASK OPEN-FORM, never a menu; do NOT
    show them the document's list first (anchoring) — their testimony, then the
