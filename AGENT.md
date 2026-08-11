@@ -13,6 +13,9 @@ which administrative door, and what each admission is there to do. The essay's s
 the DOOR (mandate / menu / anthology / quota / open formula / no list) and its cargo —
 never a ranking, never a score. 1,200–2,500 words; shorter where the shelf is small
 (China's four can be a jewel of 1,200; Ukraine's 39 may need the full length).
+Length ruling (reader, 2026-08-11): cap 2,200 words; an essay may earn up to ~3,000
+only where the shelf honestly demands it, and the draft must state what earned the
+overrun (a line in Limits). Anything past 3,000 goes back for compression before audit.
 
 ## The story-spine rule (reader ruling, 2026-08-11 — binding)
 
