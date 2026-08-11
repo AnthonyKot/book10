@@ -51,18 +51,19 @@ did our homework." So:
   at most a short closing paragraph in plain prose ("what this chapter can't know"), not
   a bulleted audit trail.
 
-**Roster ruling (reader, 2026-08-11, amended same evening).** Full essays only where a
-real window exists AT THE BOOK'S UNIT (what a 15–16-year-old meets in the compulsory
-years): ua, vn, bo, cn, br, us, in, by (+ ru after its rebuild; uk pending the reader's
-read). Small/closed windows — de, mx, mn, be, ch, no, kz (demoted 2.5★), jp, it, and
-**au** — become short door-notes (300–600 words each) in ONE collective interlude
-chapter, where the aggregate is the finding. AU demoted by reader ruling: the NSW HSC
-prescriptions are Years 11–12 elective tracks — university-bound literature specialists,
-not a generation's canon; at fifteen Australia names no texts (verify against the
-ACARA/NSW 7–10 curriculum before the door-note asserts it), and the 140-row menu
-appearing only when literature becomes a chosen path IS its door-note. RU's table is
-being rebuilt from the school program (the taught door), not the ЕГЭ codifier (the exam
-door): analyzing the codifier was analyzing the wrong document. Hold every draft
+**Roster ruling (reader, 2026-08-11, twice amended same evening).** Full essays where a
+real window exists: ua, vn, bo, cn, br, **au**, us, in, by (+ ru after its rebuild; uk
+pending the reader's read). AU stays a full essay — reader clarification: its list
+"covers almost every nationality," one of the widest windows in the corpus; the mess is
+the exam ARCHITECTURE (Years 11–12 elective tracks, university-bound specialists), so
+the essay must carry that honestly — the richest shelf in the book, offered at
+seventeen, to those who choose it; the terra-fetched ACARA/NESA Year 9–10 receipts
+(nothing named at fifteen) sharpen that contrast INSIDE the essay. Small/closed windows
+— de, mx, mn, be, ch, no, kz (demoted 2.5★ — indifference, not architecture), jp, it —
+become short door-notes (300–600 words each) in ONE collective interlude chapter, where
+the aggregate is the finding. RU's table is being rebuilt from the school program (the
+taught door), not the ЕГЭ codifier (the exam door): analyzing the codifier was
+analyzing the wrong document. Hold every draft
 against the shipped register of book 8's chapters (~/book8/chapters/), not against
 other drafts.
 
