@@ -1,12 +1,9 @@
 #!/bin/bash
 # Wave 2a: uk-aqa, br, au through the classic lane (Opus writes, sol audits, agy transchecks).
-# Waits for the Opus session-limit reset (17:40 local, 2026-08-11) before starting.
-# Reader-authorized 2026-08-11 ("we may run opus + codex on 2-3 countries").
+# Reader-authorized 2026-08-11; runs immediately (reader switched accounts, Opus available).
 cd /home/diablo/book10 || exit 1
 mkdir -p tools/log
-
-while [ "$(date +%H%M)" -lt 1745 ]; do sleep 120; done
-echo "[$(date +%H:%M:%S)] wave2a start (post-reset)"
+echo "[$(date +%H:%M:%S)] wave2a start"
 
 ./tools/essay.sh uk uk-aqa-2025 "England's window is closed by the subject's own name — English Literature — and this table is the corpus's closed-window case: ZERO foreign-coded rows. The essay is about a door that opens inward. The AQA 8702 specification is ONE exam board, not a national list — say so plainly in the door paragraph and Limits, and never present board rows as England's shelf. All 73 memorize values were corrected excerpt->no in recon (closed-book exam quotation-learning is not an explicit by-heart mandate); that systemic correction belongs in Limits, not as a finding. resources/ is rich here (schemes of work, unseen-poetry guide, the Collins Worlds and Lives teacher guide) — quote teaching language verbatim where it serves. Story-spine rule is binding: find the scene; the document must not be the protagonist."
 
