@@ -28,3 +28,10 @@ Row numbers below exclude the TSV header.
 ## Quarantine
 
 None. The blind-confirm report flagged no unsupported rows, and every disputed entry was present in the saved defining FRP.
+
+## Addendum (2026-08-11, post-audit)
+
+The confirm pass's force disagreement on row 1 («Мифы народов России и мира») was not
+reconciled in the pass above. Applied now: `choice-list` → `mandatory` (the unit is
+printed without a choice formula and the thematic plan fixes it). Mandatory
+foreign-coded rows: 12.
