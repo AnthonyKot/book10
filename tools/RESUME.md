@@ -1,50 +1,73 @@
-# Book 10 — resume runbook (updated 2026-08-11 ~15:30, backlog cleared)
+# Book 10 — resume runbook (updated 2026-08-11 ~18:30)
 
-State: 20/20 tables · 20/20 confirms · 17/17 recons (be/ch/no empty by design — recon
-loop FINISHED, never re-run) · essays ua ✅ vn ✅ bo ✅ ru ✅ kz ✅ cn ✅ — all six through
-audit + transcheck. Reading artifact refreshed (v3, all six):
-https://claude.ai/code/artifact/19db3f88-5cfe-43fa-a6e6-fe44bc68f0e9 — a new session
-MUST pass that URL as the Artifact tool's `url` parameter or it mints a new address.
+## State
 
-Engine note: kz and cn were written by Fable 5 in-session (Opus was limit-hit); sol
-audited, agy transchecked — same gates. The lane scripts still default to Opus; either
-engine is now precedented, reader-approved 2026-08-11.
+20/20 tables · 20/20 confirms · 17/17 recons (be/ch/no empty by design — recon loop is
+FINISHED, never re-run).
 
-Reader rulings recorded: length cap 2,200 / earn to ~3,000 with the overrun stated
-(AGENT.md); BY door answer (a) = Русская литература WAS a separate subject with its own
-hours (notes/witness-by.md) → BY essay is a TWO-DOORS story, the 37 translated:russian
-rows are a second national shelf, the real window is 2 rows (1 Polish, 1 English).
+**Nine essays cleared audit + transcheck and are committed:**
+ua · vn · bo · ru · kz · cn · uk · br · au
 
-## Next steps (in order)
+**Wave 2b writing now** (Opus lane, `tools/run_wave2b.sh`): us · in · it · mn.
 
-1. **BY essay** — waits ONLY on witness answer (b): what the reader memorized by heart
-   at school. Ask open-form, never a menu (notes/witness-by.md holds the protocol and
-   answer (a)). Then write per the two-doors framing; recon-by-2024.md exists, table
-   citable; confirm-by-2024.md caveats to Limits. conclusions-draft.md says BY must not
-   LEAD the book — ordering guidance only.
-2. **Wave 2** (reader gate — get their go before starting). Readiness per the
-   2026-08-11 scout:
-   - READY: uk-aqa (best-resourced; frame as one exam board) · au (NSW = one state) ·
-     br (clean) · us (exemplar appendix, not mandate; 2010 doc under 2024 label —
-     say so) · in (3 quarantined Kritika rows to Limits) · mn (flipbook-only textbook
-     capture) · it (10 rows, Wikisource provenance, 2010 doc under 2025 label) ·
-     be + ch (door-essays from their source ledgers)
-   - THIN: de (open formula; Bavaria+NRW stand in for the federation; 5 of 6 NRW saves
-     are byte-identical — dedupe or refetch) · jp (weakest receipt chain: publisher
-     TOCs not the MEXT standard; 4 rows quarantined) · mx (Programa names no works at
-     all — that IS the door finding; no .txt extraction of the PDF — terra job)
-   - Two pre-wave-2 tasks: (a) author a Norway source ledger to match be/ch — the NO
-     empty table's zero is currently undocumented (only scout-canon2.md §10 covers it);
-     (b) get the reader's ruling on conclusions-draft.md line ~125 ("do not draft
-     Belgium, Switzerland, or Norway from the present corpus") vs the be/ch/no
-     door-essay plan — conflict unresolved.
-3. **Connective instruments** (any time, non-Opus, sol can do it): admission matrix,
+**Reading artifact — NEW ADDRESS as of 2026-08-11:**
+https://claude.ai/code/artifact/4428face-788a-47a2-976a-c8b7001474dc
+The previous artifact (19db3f88-…) died when the reader switched Claude accounts — an
+artifact cannot be read or updated from a different account. Pass the URL above as the
+Artifact tool's `url` parameter, and if it ever 404s again, publish fresh and record the
+new address here rather than retrying.
+
+## Rulings recorded (do not re-litigate)
+
+- **Length**: cap 2,200; may earn to ~3,000 with the reason stated in Limits; past 3,000
+  goes back for compression. In AGENT.md.
+- **Writer**: Opus or Fable, either is precedented (kz, cn, and au's second apply pass
+  were Fable's). sol audits, agy transchecks — those gates never move.
+- **BY door** (witness answer (a)): Русская литература WAS a separate subject with its
+  own hours → the BY essay is a TWO-DOORS story, not a window story. notes/witness-by.md.
+- **be/ch/no** (resolved 2026-08-11, was flagged as a conflict): conclusions-draft.md's
+  "do not draft Belgium, Switzerland, or Norway from the present corpus" forbids a
+  SHELF-WALK essay from an empty table — it does not forbid AGENT.md's door-essay written
+  from the source ledger. **BE and CH: door-essays are cleared to write**; their ledgers
+  are strong (CH's carries SHA-256 hashes and page-level evidence). **NO: blocked** until
+  its ledger exists — terra was tasked with authoring
+  `resources/no-2024-source-ledger.txt` on 2026-08-11; check whether it landed.
+
+## Next steps
+
+1. **BY essay** — waits ONLY on witness answer (b): what the reader memorized by heart.
+   Ask open-form, never a menu. Two findings already verified for it:
+   - `resources/` holds TWO grade-9 programs, `by_bel_lit_9_2019.txt` and
+     `by_rus_lit_9_2019.txt`, both under 2019 ministry order No. 123 — documentary
+     corroboration of the separate-subject testimony.
+   - conclusions-draft.md's old worry that "twelve Belarus rows appear imported from the
+     Russian file" is RESOLVED: recon checked all 44 disputed rows against both saved
+     programs, 82 rows in / 82 out, zero quarantined.
+   - Caveat to handle: all 82 rows carry ONE source URL (a GEI archive bitstream) though
+     two distinct programs exist. Receipts must cite the two programs separately.
+   - Shape: 43 domestic + 37 translated:russian (second national shelf, own door) + a
+     2-row window (1 Polish, 1 English). conclusions-draft says BY must not LEAD the
+     book — ordering only, no bar on writing it.
+2. **be and ch door-essays** — cleared (see ruling above); write from the ledgers.
+3. **no door-essay** — after terra's ledger lands and is spot-checked.
+4. **de · jp · mx** — THIN receipts, worth a terra pass before writing: de's NRW saves
+   are 5 byte-identical duplicates (dedupe or refetch); jp's rows rest on publisher TOCs
+   rather than the MEXT standard (4 rows already quarantined); mx has no .txt extraction
+   of its PDF and its Programa names no works at all — which IS the door finding.
+5. **Connective instruments** (non-Opus, sol can do it any time): admission matrix,
    shared shelf vs national-poet slot, enemy shelf, window asymmetry, memorization
-   inventory. notes/window-report.md predates 7 recons and its leaderboard counts
-   author keys, not works (conclusions-draft.md rebuts it) — regenerate before citing.
+   inventory. notes/window-report.md predates 7 recons and counts author keys rather than
+   works — regenerate before citing it.
 
-Engines: Opus or Fable writes · sol audits (codex workspace-write, never read-only) ·
-terra fetches (codex danger-full-access) · agy transchecks (size-check output).
-resources/ and tools/log/ stay untracked. Commit per milestone with
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>. Quotes verbatim or gone;
-admission never motive; unsupported rows quarantine, never silently delete.
+## Standing rules
+
+Quotes verbatim or gone · admission never motive · every number in prose traceable to the
+table · unsupported rows quarantine, never silently delete · resources/ and tools/log/
+never tracked · commit per milestone with
+Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>.
+
+Engines: `claude --model claude-opus-5 -p` writes · `codex exec -s workspace-write
+--model gpt-5.6-sol` audits (NEVER read-only) · `codex exec -s danger-full-access
+--model gpt-5.6-terra` fetches · `agy --print-timeout 14m --model gemini-3.6-flash-high
+-p` transchecks (size-check the output — zero-byte failure mode).
+Lane scripts in tools/ are self-skipping EXCEPT rework_essay.sh.
