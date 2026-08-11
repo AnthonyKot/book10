@@ -30,7 +30,21 @@ evidence, when the story calls them. If you cannot find the story, the essay is 
 ready to write — say so instead of writing the catalogue.
 Readability discipline: inline citation freight (page refs, document numbers) moves to
 Receipts wherever prose can carry the claim without it; sentences breathe; a reader who
-knows nothing about curricula must never have to re-read a sentence. Hold every draft
+knows nothing about curricula must never have to re-read a sentence.
+
+**English carries the prose (reader ruling, 2026-08-11 — binding).** The reader does not
+read Spanish, Chinese, Vietnamese, Norwegian, Portuguese. An essay must be readable
+straight through in English by someone with none of its languages. So:
+- A quotation in the body appears in ENGLISH first and by default. The verbatim original
+  is still mandatory evidence — it moves to Receipts, keyed by page, where the
+  verbatim-or-gone rule and the transcheck still bite.
+- Keep an original inline ONLY where its exact wording is itself the finding (a subject's
+  name, a document's own term of art, a country tag, a title) — and then gloss it in the
+  same breath, never a paragraph later.
+- Never make the reader parse a block of foreign script to reach the point. If a passage
+  needs its original to land, print the English as the quotation and put the original
+  beneath it or in Receipts.
+This applies to every essay, including those already written. Hold every draft
 against the shipped register of book 8's chapters (~/book8/chapters/), not against
 other drafts.
 
