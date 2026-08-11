@@ -1,66 +1,50 @@
-# Book 10 — resume runbook (stopped 2026-08-11 ~13:50, Opus session limit)
+# Book 10 — resume runbook (updated 2026-08-11 ~15:30, backlog cleared)
 
-State at stop (all committed):
-- 20/20 corpus tables · 20/20 confirms · **17/17 recons** (be/ch/no are empty by design —
-  nothing to reconcile; the recon loop is finished, do not re-run it)
-- Essays: ua ✅ · vn ✅ · bo ✅ · **ru ✅ reworked** (4,017 → 2,524 words; audit applied;
-  transcheck 25/25 faithful) · **kz ✗ NOT reworked** · **cn ✗ NOT reworked**
+State: 20/20 tables · 20/20 confirms · 17/17 recons (be/ch/no empty by design — recon
+loop FINISHED, never re-run) · essays ua ✅ vn ✅ bo ✅ ru ✅ kz ✅ cn ✅ — all six through
+audit + transcheck. Reading artifact refreshed (v3, all six):
+https://claude.ai/code/artifact/19db3f88-5cfe-43fa-a6e6-fe44bc68f0e9 — a new session
+MUST pass that URL as the Artifact tool's `url` parameter or it mints a new address.
 
-## What happened to kz (read before re-running it)
+Engine note: kz and cn were written by Fable 5 in-session (Opus was limit-hit); sol
+audited, agy transchecked — same gates. The lane scripts still default to Opus; either
+engine is now precedented, reader-approved 2026-08-11.
 
-The kz rework completed its write (a 3,190-word draft) and cleared transcheck 43/43
-faithful, but the Opus **apply** step hit the account session limit and never applied the
-audit. The reworked draft was then destroyed by a `git checkout drafts/kz.md` during
-cleanup. `drafts/kz.md` is back to the ORIGINAL pre-rework 3,621-word version, and
-`notes/review-kz.md` + `notes/transcheck-kz.md` were restored to the matching pair.
+Reader rulings recorded: length cap 2,200 / earn to ~3,000 with the overrun stated
+(AGENT.md); BY door answer (a) = Русская литература WAS a separate subject with its own
+hours (notes/witness-by.md) → BY essay is a TWO-DOORS story, the 37 translated:russian
+rows are a second national shelf, the real window is 2 rows (1 Polish, 1 English).
 
-**`notes/review-kz.LOST-REWORK.md` is the audit of the destroyed draft.** Its line
-references are dead but its findings are real and were NOT the same as the old audit's.
-Feed them into the next kz rework as known traps:
-1. Not every omitted foreign work is Russian — Aitmatov's «Плаха» is `translated:kyrgyz`
-   under this corpus's own convention (kz-2023.tsv rows 53, 63).
-2. Row counts are rows, not works — single rows bundle works (Pushkin lyric + «Цыганы»;
-   Chekhov's two teacher-choice stories). Say "rows"/"list entries", and never let
-   `translated:*` imply the classroom copy is a translation.
-3. Identity facts used in prose (Gundarev Russian-writing, Gogol Ukrainian-born, Asimov
-   American) are not in the TSV — receipt them or cut them; Limits must not deny them.
-4. **The errand close-read beat was still missing** — comparing quarter headings is not a
-   close-read. Read one listed work from a named edition.
-5. «типовые учебные программы» in that nominative plural form is not in the document.
+## Next steps (in order)
 
-## Restart (in order)
+1. **BY essay** — waits ONLY on witness answer (b): what the reader memorized by heart
+   at school. Ask open-form, never a menu (notes/witness-by.md holds the protocol and
+   answer (a)). Then write per the two-doors framing; recon-by-2024.md exists, table
+   citable; confirm-by-2024.md caveats to Limits. conclusions-draft.md says BY must not
+   LEAD the book — ordering guidance only.
+2. **Wave 2** (reader gate — get their go before starting). Readiness per the
+   2026-08-11 scout:
+   - READY: uk-aqa (best-resourced; frame as one exam board) · au (NSW = one state) ·
+     br (clean) · us (exemplar appendix, not mandate; 2010 doc under 2024 label —
+     say so) · in (3 quarantined Kritika rows to Limits) · mn (flipbook-only textbook
+     capture) · it (10 rows, Wikisource provenance, 2010 doc under 2025 label) ·
+     be + ch (door-essays from their source ledgers)
+   - THIN: de (open formula; Bavaria+NRW stand in for the federation; 5 of 6 NRW saves
+     are byte-identical — dedupe or refetch) · jp (weakest receipt chain: publisher
+     TOCs not the MEXT standard; 4 rows quarantined) · mx (Programa names no works at
+     all — that IS the door finding; no .txt extraction of the PDF — terra job)
+   - Two pre-wave-2 tasks: (a) author a Norway source ledger to match be/ch — the NO
+     empty table's zero is currently undocumented (only scout-canon2.md §10 covers it);
+     (b) get the reader's ruling on conclusions-draft.md line ~125 ("do not draft
+     Belgium, Switzerland, or Norway from the present corpus") vs the be/ch/no
+     door-essay plan — conflict unresolved.
+3. **Connective instruments** (any time, non-Opus, sol can do it): admission matrix,
+   shared shelf vs national-poet slot, enemy shelf, window asymmetry, memorization
+   inventory. notes/window-report.md predates 7 recons and its leaderboard counts
+   author keys, not works (conclusions-draft.md rebuts it) — regenerate before citing.
 
-1. Reworks still owed — `tools/run_rework2.sh` has all three lines; **delete the ru line
-   first** (ru is done; the script is NOT self-skipping and would redo it):
-   ./tools/rework_essay.sh kz kz-2023 "<kz note + the five traps above>"
-   ./tools/rework_essay.sh cn cn-2024 "<cn note from run_rework2.sh>"
-   Never re-rework ua/vn/ru — drift.
-2. Reading artifact — MUST be updated with the existing `url` parameter or it mints a new
-   address: https://claude.ai/code/artifact/19db3f88-5cfe-43fa-a6e6-fe44bc68f0e9
-   Content: ua, vn, bo + ru (ready now), then kz, cn when they clear.
-3. Two questions for the reader, still unanswered (they are the BY native witness —
-   the Belarus essay is blocked on both):
-   (a) Was Русская литература a separate subject with its own hours? This decides the
-       essay's door type: by-2024.tsv has 43 domestic vs **37 translated:russian** rows,
-       and if that shelf was its own subject it is a second national shelf, not a window.
-   (b) What did they memorize by heart at school? (by-2024.tsv records only 3 yes +
-       3 excerpt out of 82 rows — the document is close to silent here.)
-   Ask (b) WITHOUT offering options — it is witness testimony, not a menu.
-4. Also for the reader's verdict: essays keep landing at 3–4k words against a 2,200 cap.
-   Earned, or enforce the cap in essay.sh? Their answer calibrates wave 2.
-5. Then wave 2: in jp mx br au us uk it de mn, + be/ch/no as door-essays from their
-   source ledgers. All their tables are now reconciled, so all are unblocked.
-
-## Non-Opus work available when Opus is rationed (agy/codex are separate quota)
-
-- sol: the cross-country instruments, now that 17/17 tables are reconciled for the first
-  time — admission matrix (foreign authors × countries), shared shelf vs national-poet
-  slot, enemy shelf, window asymmetry. `notes/window-report.md` predates 7 of the tables.
-- sol: the memorization inventory across all 20 tables (the best-chapter candidate).
-- terra: fetch/rebuild any thin wave-2 defining documents in resources/.
-- Method discipline holds for all of it: grouping and plain fractions, no correlation
-  analysis, 1–2 conclusions max.
-
-Engines: Opus writes (claude CLI) · sol audits (codex, workspace-write — never read-only)
-· terra fetches (codex danger-full-access) · agy transchecks (size-check the output).
-resources/ and tools/log/ stay untracked. Commit per milestone.
+Engines: Opus or Fable writes · sol audits (codex workspace-write, never read-only) ·
+terra fetches (codex danger-full-access) · agy transchecks (size-check output).
+resources/ and tools/log/ stay untracked. Commit per milestone with
+Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>. Quotes verbatim or gone;
+admission never motive; unsupported rows quarantine, never silently delete.
