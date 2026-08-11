@@ -1,4 +1,4 @@
-40 passages, 40 faithful, 0 divergent, 38 verified-in-source, 2 not-found
+32 passages, 32 faithful, 0 divergent, 30 verified-in-source, 2 not-found
 
-- Line 251: «Человек в футляре» — not found in thong_tu_32_2018_ngu_van.txt (Russian title cited in Receipts as primary text read outside curriculum corpus; curriculum document lists Vietnamese title «Người trong bao»).
-- Line 252: «Первый учитель» — not found in thong_tu_32_2018_ngu_van.txt (Russian title cited in Receipts as primary text read outside curriculum corpus; curriculum document lists Vietnamese title «Người thầy đầu tiên»).
+- Line 278: «Человек в футляре» — not found in thong_tu_32_2018_ngu_van.txt (quoted from Anton Chekhov's story «Человек в футляре», as noted in Receipts; listed in curriculum text as «Người trong bao»).
+- Line 278: «Первый учитель» — not found in thong_tu_32_2018_ngu_van.txt (quoted from Chinghiz Aitmatov's novella «Первый учитель», as noted in Receipts; listed in curriculum text as «Người thầy đầu tiên»).

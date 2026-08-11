@@ -34,17 +34,30 @@ knows nothing about curricula must never have to re-read a sentence.
 
 **English carries the prose (reader ruling, 2026-08-11 — binding).** The reader does not
 read Spanish, Chinese, Vietnamese, Norwegian, Portuguese. An essay must be readable
-straight through in English by someone with none of its languages. So:
-- A quotation in the body appears in ENGLISH first and by default. The verbatim original
-  is still mandatory evidence — it moves to Receipts, keyed by page, where the
-  verbatim-or-gone rule and the transcheck still bite.
-- Keep an original inline ONLY where its exact wording is itself the finding (a subject's
-  name, a document's own term of art, a country tag, a title) — and then gloss it in the
-  same breath, never a paragraph later.
-- Never make the reader parse a block of foreign script to reach the point. If a passage
-  needs its original to land, print the English as the quotation and put the original
-  beneath it or in Receipts.
-This applies to every essay, including those already written. Hold every draft
+straight through in English by someone with none of its languages.
+
+**The essay performs its findings, not its evidence (reader ruling, 2026-08-11 —
+binding, supersedes the quote-handling above).** "Let's assume the reader believes we
+did our homework." So:
+- The body QUOTES ALMOST NOTHING. At most one or two short inline quotations per essay,
+  and only where the exact wording is itself the jewel. No blockquotes, no citation
+  freight, no (p. 64) in running prose.
+- Everything the essay knows, it simply SAYS, in its own English sentences, with the
+  confidence of finished homework. The evidence does not disappear — verbatim originals,
+  page keys, counts and their filters live in the companion apparatus
+  (notes/receipts-<cc>.md or the essay file below a `---` separator), where
+  verbatim-or-gone, the transcheck, and the audit still bite at full strength.
+- The reader-facing artifact carries the essays WITHOUT the apparatus. Limits survive as
+  at most a short closing paragraph in plain prose ("what this chapter can't know"), not
+  a bulleted audit trail.
+
+**Roster ruling (reader, 2026-08-11).** Full essays only where a real window exists:
+ua, vn, bo, cn, br, au, us, in, by (+ ru after its rebuild; uk and it pending the
+reader's read). Small/closed windows — de, mx, mn, be, ch, no, kz (demoted 2.5★), jp —
+become short door-notes (300–600 words each) in ONE collective interlude chapter, where
+the aggregate (how many systems name no foreign work at all) is the finding. RU's table
+is being rebuilt from the school program (the taught door), not the ЕГЭ codifier (the
+exam door): analyzing the codifier was analyzing the wrong document. Hold every draft
 against the shipped register of book 8's chapters (~/book8/chapters/), not against
 other drafts.
 

@@ -1,13 +1,13 @@
 # Brazil: Nine Books and a Door You Have to Want
 
 The guide naming Brazil's nine obligatory books greets its reader twice, once in each
-gender: «Prezada Vestibulanda, Prezado Vestibulando» — "Dear candidate, dear candidate."
-The word is gendered; the guide declines to address only half its readers. It does not say
-*pupil*. It says *vestibulando*: somebody standing outside a university, trying to get in.
-«Você tem em mãos o seu Guia de Jornada» — "You have in your hands your Journey Guide."
+gender: "Dear candidate, dear candidate" — the same Portuguese noun printed twice over,
+*Vestibulanda* and then *Vestibulando*, feminine ending and masculine. The guide declines
+to address only half its readers. And the noun is not *pupil*. A *vestibulando* is somebody
+standing outside a university, trying to get in. "You have in your hands your Journey Guide."
 
-Deep in the same book, nine titles are printed under **Leituras Obrigatórias** — what the
-journey costs in reading. Gonzaga's *Marília de Dirceu*. Machado's *Quincas Borba*.
+Deep in the same book, nine titles are printed under **Leituras Obrigatórias**, Obligatory
+Readings — what the journey costs in reading. Gonzaga's *Marília de Dirceu*. Machado's *Quincas Borba*.
 Graciliano Ramos's *Angústia*. Drummond's *Alguma Poesia*. Pessoa's *Mensagem*. Honwana's
 *Nós matamos o cão tinhoso!* Guimarães Rosa's *Campo Geral*. Cecília Meireles's *Romanceiro
 da Inconfidência*. Milton Hatoum's *Dois irmãos*.
@@ -22,7 +22,7 @@ Most doors in this corpus are the state's: a codifier, a national program, a sta
 anthology, reaching into a compulsory classroom to tell a fifteen-year-old what will be on
 the paper. This one belongs to a university. FUVEST runs the entrance exam — the
 *vestibular* — for USP, and the guide states its legal footing plainly: the exam and its
-guides «são baseados na Resolução CoG nº 8266/2023 da Universidade de São Paulo». A
+guides "are based on Resolução CoG nº 8266/2023 of the University of São Paulo." A
 resolution of one university's own council. One state, one
 institution, one year — and not even all of USP's doors: the same guide points to ENEM-USP
 and the Provão Paulista as other ways in, and the nine belong to neither.
@@ -30,15 +30,15 @@ and the Provão Paulista as other ways in, and the nine belong to neither.
 That does not shrink the list's force; it relocates it. The candidate is not a captive
 audience but a volunteer; the reading is not homework but a toll. The exam is two
 rounds: a day of multiple-choice questions, then, for whoever clears the bar, a second
-phase opening with discursive questions in Portuguese — «sobre interpretação de textos,
-gramática e literatura» — and an essay.
+phase opening with discursive questions in Portuguese — "on text interpretation, grammar
+and literature" — and an essay.
 
 Two lists sit in the same chapter, and they do not weigh the same. The syllabus offers a
-repertoire and hedges it in one phrase: «Esse repertório de leituras inclui, entre outras,
-as abaixo discriminadas» — "this repertoire includes, *among others*, those below."
-Forty-eight rows of this table come from there: exemplars, not a menu and not a fence. The
-other list is the nine, and its sentence has no hedge: «A lista de obras de leitura
-obrigatória para o Concurso Vestibular de 2024 será» — *will be*, for this exam, this year.
+repertoire and hedges it in one phrase: "This repertoire of readings includes, *among
+others*, those specified below." Forty-eight rows of this table come from there: exemplars,
+not a menu and not a fence. The other list is the nine, and its sentence has no hedge: "The
+list of works of obligatory reading for the 2024 Vestibular Competition will be:" — *will
+be*, for this exam, this year.
 
 ## What the window holds
 
@@ -52,20 +52,18 @@ lists give a title and an author and stop. The heading overhead is the whole cus
 declaration.
 
 The window opens onto the language rather than the world, and the programme summary says so
-in four headings: «I. Língua Portuguesa / II. Literatura Brasileira /
-III. Literatura Portuguesa / IV. Literaturas Africanas em Língua Portuguesa» — African
-literatures *in the Portuguese language*: a shelf defined by what it is written in, not by
-where it is from.
+in four headings: Portuguese Language; Brazilian Literature; Portuguese Literature; African
+Literatures in the Portuguese Language — *em Língua Portuguesa*, the guide's own phrase for
+that fourth shelf: defined by what it is written in, not by where it is from.
 
-The sentence that spells out the literary expectation names only two of the four. What a
-candidate must have is «o conhecimento das obras representativas dos diferentes períodos das
-literaturas brasileira e portuguesa» — knowledge of the representative works of the
-different *periods* of Brazilian and Portuguese literature. The African heading is not in
-that sentence, and the shape of the lists underneath repeats the omission. Brazil gets a
+The sentence that spells out the literary expectation names only two of the four. What is
+expected, where literary texts are concerned, is "knowledge of the representative works of
+the different *periods* of Brazilian and Portuguese literature." The African heading is not
+in that sentence, and the shape of the lists underneath repeats the omission. Brazil gets a
 lettered run of periods, Baroque through contemporary. Portugal gets a longer one, from the
-medieval troubadours to Modernism. Africa gets no periods at all — two lines, «a. Pepetela
-(Mayombe); b. José Luandino Vieira (Luuanda)», two Angolan names with no century around
-them. Two of these shelves are given a history. The third is given authors.
+medieval troubadours to Modernism. Africa gets no periods at all — two lines, "a. Pepetela
+(Mayombe); b. José Luandino Vieira (Luuanda)", two Angolan names and their titles with no
+century around them. Two of these shelves are given a history. The third is given authors.
 
 ## Two lines of the nine
 
@@ -75,31 +73,33 @@ of the nine in the order the guide prints them:
 > Mensagem – Fernando Pessoa;  
 > Nós matamos o cão tinhoso! – Luís Bernardo Honwana;
 
-*Mensagem* is a short cycle in which the sea, the kings and the waiting for a lost king
-become a national myth in miniature — empire told as destiny, my reading of the poems, not
-the guide's; the compiler files the subject provisionally, question mark and all:
-`portuguese-empire-mythology/sebastianism?`. *Nós matamos o cão tinhoso!* is a book of
-stories out of Mozambique, coded `mozambican-colonialism/race-oppression?`, by an author
-born in 1942 in Lourenço Marques — in a Mozambique that was then Portuguese.
+*Mensagem* — "Message" — is a short cycle in which the sea, the kings and the waiting for a
+lost king become a national myth in miniature — empire told as destiny, my reading of the
+poems, not the guide's; the compiler files the subject provisionally, question mark and all:
+`portuguese-empire-mythology/sebastianism?`. *Nós matamos o cão tinhoso!* — "We killed the
+mangy dog!" — is a book of stories out of Mozambique, coded
+`mozambican-colonialism/race-oppression?`, by an author born in 1942 in Lourenço Marques —
+in a Mozambique that was then Portuguese.
 
 One line apart, to my eye: the empire's poem about its own greatness, and a book of stories
 from underneath it. A former colony's entrance exam requires both, in the same language, in
 the same year, from the same candidate. The order is the guide's; the resonance is mine.
 
 Why they sit one line apart is not something this door will say. The guide is not silent
-about reading: it wants texts «de toda natureza» interpreted critically, and it lists the
-operations expected — analysis, interpretation, genre, composition, and the ability «de
-relacionar o texto com o conjunto da obra em que se insere, com outros textos e com seu
-contexto histórico e cultural», to relate a text to the whole work it belongs to, to other
-texts, and to its historical and cultural context. What it never does is come down to the
-level of a title. No line under any of the nine says why that book and not another: no
+about reading: it wants a candidate able to read, understand and critically interpret
+"texts of every kind — literary and non-literary," and it lists the operations expected —
+analysis, interpretation, genre, composition, and the capacity "to relate the text to the
+whole work in which it sits, to other texts, and to its historical and cultural context."
+What it never does is come down to the level of a title. No line under any of the nine says
+why that book and not another: no
 gloss, no aim, nothing like the paragraph of purpose a ministry program prints above every
 unit. An arrangement is an editorial act, and this one comes with no reason attached.
 
 Placement does other quiet work here. Padre Antônio Vieira preached most of his life in
-Brazil and died in Salvador; the guide files him under **Literatura Portuguesa**, Baroque,
-and so his row is foreign. Tomás Antônio Gonzaga was born in Porto; the guide files him
-under **Literatura Brasileira**, Arcadismo, and so *Marília de Dirceu* is domestic. Two men
+Brazil and died in Salvador; the guide files him under **Literatura Portuguesa**, Portuguese
+Literature, Baroque, and so his row is foreign. Tomás Antônio Gonzaga was born in Porto; the
+guide files him under **Literatura Brasileira**, Arcadismo, and so *Marília de Dirceu* is
+domestic. Two men
 crossed the same ocean in the same direction and the document sorts them opposite ways. A
 row says foreign because the guide printed it under a foreign heading — never because
 anyone adjudicated a life.
@@ -117,10 +117,9 @@ lettered by movement; the obligatory list is dated, in its own sentence, to one 
 ## Reading to get in
 
 Not one of the fifty-seven rows is coded `memorize: yes`: nowhere is a candidate told to
-hold a named text by heart. That fits the temper of what the guide says it tests: «O
-conhecimento esperado não se reduz, portanto, à memorização de fatos, datas,
-fórmulas ou ao uso automatizado dessas e outras informações…» — the knowledge expected is
-not reducible to the memorization of facts, dates, formulas, or to their automated use.
+hold a named text by heart. That fits the temper of what the guide says it tests: "The
+knowledge expected is not, therefore, reducible to the memorization of facts, dates,
+formulas, or to the automated use of these and other information or specific techniques."
 That sentence is about knowledge in general, not about poems; the silence about reciting is
 the document's own. The books are to be read, and then perhaps argued about in longhand, on
 a paper of discursive questions — and marked blind.
@@ -160,18 +159,53 @@ local copy in `resources/`. Enabling instrument, named in the document: Resoluç
 8266/2023. Both lists sit in the Português chapter: repertoire pp. 69–70, **Leituras
 Obrigatórias** p. 70.
 
-**Quotations.** Verbatim from the PDF text layer of the copy in `resources/`; English
-renderings mine; pagination the guide's own, its footers restarting per chapter. Jornada
-p. 4, opening letter: «Prezada Vestibulanda, Prezado Vestibulando» and «Você tem em mãos o
-seu Guia de Jornada». Provas p. 31: «são baseados na Resolução CoG
-nº 8266/2023…». p. 32: «sobre interpretação de textos, gramática e literatura». p. 33: «O
-conhecimento esperado não se reduz…»; p. 34: the anonymised double marking behind "marked
-blind". p. 68: «textos de toda natureza» and the four programme headings, printed on four
-lines, run together here with slashes. p. 69: «o conhecimento das obras
-representativas…», «Esse repertório de leituras inclui, entre outras, as abaixo
-discriminadas», «de relacionar o texto com o conjunto da obra em que se insere…». p. 70:
-«A lista de obras de leitura obrigatória para o Concurso Vestibular de 2024 será:», the two
-African entries, and the nine titles in the order quoted, punctuation and line order kept.
+**Quotations — Portuguese originals, verbatim from the PDF text layer** of the copy in
+`resources/`, keyed by the guide's own pagination, whose footers restart per chapter
+(Jornada, then Provas). The guide's own punctuation, line breaks and mixed dashes are kept;
+line wraps inside a running paragraph are the PDF's, not the guide's, and are not
+reproduced. Any omission is marked […]. Every one of these appears in the body in English;
+the renderings are mine.
+
+- Jornada p. 4, opening letter, two lines:
+  «Prezada Vestibulanda, Prezado Vestibulando,
+  Você tem em mãos o seu Guia de Jornada.»
+- Provas p. 31: «O Concurso Vestibular FUVEST 2024 e os Guias do Vestibular 2024 são
+  baseados na Resolução CoG nº 8266/2023 da Universidade de São Paulo.»
+- p. 32: «São 10 questões discursivas de Português, sobre interpretação de textos, gramática
+  e literatura, e uma redação.»
+- p. 33: «O conhecimento esperado não se reduz, portanto, à memorização de fatos, datas,
+  fórmulas ou ao uso automatizado dessas e outras informações ou técnicas específicas.»
+- p. 34: the anonymised double marking behind "marked blind".
+- p. 68, the four programme headings, printed on four lines:
+  «I. Língua Portuguesa
+  II. Literatura Brasileira
+  III. Literatura Portuguesa
+  IV. Literaturas Africanas em Língua Portuguesa»
+  And: «A prova de Português visa a avaliar a capacidade do candidato para ler, compreender
+  e interpretar criticamente textos de toda natureza - literários e não literários -[…]»
+- p. 69: «No que se refere aos textos literários, espera-se o conhecimento das obras
+  representativas dos diferentes períodos das literaturas brasileira e portuguesa.»;
+  «Implica também a capacidade de relacionar o texto com o conjunto da obra em que se
+  insere, com outros textos e com seu contexto histórico e cultural.»; «Esse repertório de
+  leituras inclui, entre outras, as abaixo discriminadas:»
+- p. 70, the African heading and its two entries, three lines:
+  «Literaturas Africanas em Língua Portuguesa
+  a. Pepetela (Mayombe);
+  b. José Luandino Vieira (Luuanda).»
+- p. 70: «A lista de obras de leitura obrigatória para o Concurso Vestibular de 2024 será:»,
+  and the nine, in the guide's order and punctuation, one per line:
+  «Marília de Dirceu – Tomás Antônio Gonzaga;
+  Quincas Borba - Machado de Assis;
+  Angústia - Graciliano Ramos;
+  Alguma Poesia - Carlos Drummond de Andrade;
+  Mensagem – Fernando Pessoa;
+  Nós matamos o cão tinhoso! – Luís Bernardo Honwana;
+  Campo Geral – Guimarães Rosa;
+  Romanceiro da Inconfidência – Cecília Meireles;
+  Dois irmãos – Milton Hatoum.»
+- Titles and names kept in Portuguese in the body are the guide's own printed forms. The two
+  glossed in the body render as "Message" (*Mensagem*) and "We killed the mangy dog!"
+  (*Nós matamos o cão tinhoso!*).
 
 **Non-table facts, with sources**, all retrieved 2026-08-11. Vieira: born Lisbon 1608,
 raised and ministering in Brazil, died Salvador 1697 —
@@ -194,9 +228,9 @@ a `subject_era?` code.
   heading*. The table has no source-language and no translator column, so it settles
   neither: what language a work was written in — the medieval Galician-Portuguese cantigas,
   say — is outside this window. The document's own claim is narrow: the African category is
-  «em Língua Portuguesa».
+  one defined *em Língua Portuguesa*, in the Portuguese language.
 - **The two lists are not commensurable, and neither is the total.** The 48 `choice-list`
-  rows are exemplars inside a repertoire the document leaves open («entre outras»); the 9
+  rows are exemplars inside a repertoire the document leaves open ("among others"); the 9
   `mandatory` rows are closed and year-stamped. 57 counts printed rows, not a reading load,
   and compares to no other country's.
 - **The teaching language stops above the title.** The guide states assessment aims, but
@@ -210,3 +244,6 @@ a `subject_era?` code.
   `memorize: no` because the guide nowhere tells a candidate to recite or learn a named
   text; it may still examine literature discursively. Whether Brazilian classrooms make
   children learn poems by heart is outside it.
+- **Length.** About 2,490 words by `wc -w` against the 2,200 cap; the story through the
+  lander runs about 1,400. The overrun is the Portuguese-originals block, which the
+  English-first rule moves out of the body into Receipts — evidence relocated, not added.
