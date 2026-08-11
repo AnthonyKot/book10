@@ -1,73 +1,66 @@
-# Book 10 — resume runbook (updated 2026-08-11 ~18:30)
+# Book 10 — resume runbook (consolidated 2026-08-11 ~21:45, Opus at 75%, stopping)
+
+## READ FIRST — the evening's five reader rulings (all binding, all in AGENT.md)
+
+1. **English carries the prose** — no foreign-language text in the load-bearing position.
+2. **The essay performs its findings, not its evidence** — body quotes almost nothing;
+   apparatus lives below the `---` or in notes/; reader-facing artifact carries clean
+   pages only. Masters keep full receipts; audits/transchecks unchanged in force.
+3. **Roster**: full essays = ua vn bo cn br au us in by + ru (rebuilt) + uk (pending
+   stars). Interlude of short door-notes = de mx mn be ch no kz (2.5★, indifference)
+   jp it. AU stays full (2× amended): widest window in the corpus, offered at 17 to
+   self-selected specialists — the age-line paragraph now in the essay carries that.
+4. **RU was the wrong document** (2★): the ЕГЭ codifier is the exam door; the taught
+   door is the mandatory (371-FZ) федеральная рабочая программа. Rebuilt: see below.
+5. **Star scale in use**: ua 3/5 (pre-rework) · br 3/5 · ru 2/5 (old essay) ·
+   kz 2.5/5 (demoted). bo/vn v2 and all cuts unstarred as yet.
 
 ## State
 
-20/20 tables · 20/20 confirms · 17/17 recons (be/ch/no empty by design — recon loop is
-FINISHED, never re-run).
+- Corpus: 21 tables (20 original + corpus/ru-frp-2024.tsv, 40 rows, confirmed 0
+  hallucinations, reconciled). All non-empty tables repaired.
+- Full-essay masters, audited + transchecked, committed: ua vn bo cn br au us in uk
+  + ru ("The Staircase", NEW — sol audit + agy transcheck WERE RUNNING at stop; check
+  notes/review-ru.md and notes/transcheck-ru.md, apply any REQUIRED fixes before
+  cutting it for the reader edition).
+- **Reader cuts** in drafts/reader/ (9): ua vn bo cn br au us in uk — the reader-facing
+  form. ru has NO cut yet (write after its audit clears; its master body is already in
+  the new mode, so the cut is mostly deleting the apparatus).
+- **Reader artifact (3rd address — account switches killed the first two):**
+  https://claude.ai/code/artifact/10484a25-522c-40c7-9290-f578fdeff570
+  Update via url param; if 404, publish fresh + record here. Scratchpad source file:
+  book10-reader-edition.md (session-specific path — rebuild by concatenating
+  drafts/reader/* in order ua vn bo cn br au us in uk).
+- Cross-country instruments: notes/instruments-2026-08-11.md (no world canon — no work
+  above 3 of 17; national-poet thesis fails except BY/Kupala + KZ/Abai-flagged;
+  memorization triangle RU-domestic vs KZ/UA-foreign vs BY-mixed).
+- Interlude source material on disk: drafts/kz.md (full, cleared), drafts/it.md +
+  drafts/mn.md (REWRITE verdicts — use facts, not prose), au's Y9-10 receipts
+  (resources/au-y910-source-note.txt: no title at 15, one named author — Shakespeare),
+  be/ch/no ledgers (all three exist now, no's authored by terra 2026-08-11).
 
-**Nine essays cleared audit + transcheck and are committed:**
-ua · vn · bo · ru · kz · cn · uk · br · au
+## Next steps (in order)
 
-**Wave 2b writing now** (Opus lane, `tools/run_wave2b.sh`): us · in · it · mn.
+1. Check ru audit/transcheck results; fix; cut ru for the reader edition; republish
+   artifact (10 chapters).
+2. **BY questions to the reader — STILL OPEN, the last wave-1 gate:**
+   (b) what did they memorize by heart at school? ASK OPEN-FORM, never a menu; do NOT
+   show them the document's list first (anchoring) — their testimony, then the
+   comparison. Answer (a) recorded: Русская литература was a separate subject
+   (notes/witness-by.md). Then write BY: two-doors story, the only other system that
+   memorizes its own literature (4 of 6 by-heart rows domestic).
+3. Reader stars for uk + the nine cuts; refine per verdicts (br already 3/5: clean and
+   refine, keep everything).
+4. The interlude chapter ("the closed windows"): one chapter, door-notes of 300-600
+   words each for de mx mn be ch no kz jp it, the aggregate as the finding.
+5. Then: connective chapters from instruments; assembly (site infra per ~/book8:
+   ASSEMBLY.md, TEMPLATE.md, verify.sh, chapters/, index.html — none exists yet).
 
-**Reading artifact — NEW ADDRESS as of 2026-08-11:**
-https://claude.ai/code/artifact/4428face-788a-47a2-976a-c8b7001474dc
-The previous artifact (19db3f88-…) died when the reader switched Claude accounts — an
-artifact cannot be read or updated from a different account. Pass the URL above as the
-Artifact tool's `url` parameter, and if it ever 404s again, publish fresh and record the
-new address here rather than retrying.
+## Engines & rules (unchanged)
 
-## Rulings recorded (do not re-litigate)
-
-- **Length**: cap 2,200; may earn to ~3,000 with the reason stated in Limits; past 3,000
-  goes back for compression. In AGENT.md.
-- **Writer**: Opus or Fable, either is precedented (kz, cn, and au's second apply pass
-  were Fable's). sol audits, agy transchecks — those gates never move.
-- **BY door** (witness answer (a)): Русская литература WAS a separate subject with its
-  own hours → the BY essay is a TWO-DOORS story, not a window story. notes/witness-by.md.
-- **be/ch/no** (resolved 2026-08-11, was flagged as a conflict): conclusions-draft.md's
-  "do not draft Belgium, Switzerland, or Norway from the present corpus" forbids a
-  SHELF-WALK essay from an empty table — it does not forbid AGENT.md's door-essay written
-  from the source ledger. **BE and CH: door-essays are cleared to write**; their ledgers
-  are strong (CH's carries SHA-256 hashes and page-level evidence). **NO: blocked** until
-  its ledger exists — terra was tasked with authoring
-  `resources/no-2024-source-ledger.txt` on 2026-08-11; check whether it landed.
-
-## Next steps
-
-1. **BY essay** — waits ONLY on witness answer (b): what the reader memorized by heart.
-   Ask open-form, never a menu. Two findings already verified for it:
-   - `resources/` holds TWO grade-9 programs, `by_bel_lit_9_2019.txt` and
-     `by_rus_lit_9_2019.txt`, both under 2019 ministry order No. 123 — documentary
-     corroboration of the separate-subject testimony.
-   - conclusions-draft.md's old worry that "twelve Belarus rows appear imported from the
-     Russian file" is RESOLVED: recon checked all 44 disputed rows against both saved
-     programs, 82 rows in / 82 out, zero quarantined.
-   - Caveat to handle: all 82 rows carry ONE source URL (a GEI archive bitstream) though
-     two distinct programs exist. Receipts must cite the two programs separately.
-   - Shape: 43 domestic + 37 translated:russian (second national shelf, own door) + a
-     2-row window (1 Polish, 1 English). conclusions-draft says BY must not LEAD the
-     book — ordering only, no bar on writing it.
-2. **be and ch door-essays** — cleared (see ruling above); write from the ledgers.
-3. **no door-essay** — after terra's ledger lands and is spot-checked.
-4. **de · jp · mx** — THIN receipts, worth a terra pass before writing: de's NRW saves
-   are 5 byte-identical duplicates (dedupe or refetch); jp's rows rest on publisher TOCs
-   rather than the MEXT standard (4 rows already quarantined); mx has no .txt extraction
-   of its PDF and its Programa names no works at all — which IS the door finding.
-5. **Connective instruments** (non-Opus, sol can do it any time): admission matrix,
-   shared shelf vs national-poet slot, enemy shelf, window asymmetry, memorization
-   inventory. notes/window-report.md predates 7 recons and counts author keys rather than
-   works — regenerate before citing it.
-
-## Standing rules
-
-Quotes verbatim or gone · admission never motive · every number in prose traceable to the
-table · unsupported rows quarantine, never silently delete · resources/ and tools/log/
-never tracked · commit per milestone with
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>.
-
-Engines: `claude --model claude-opus-5 -p` writes · `codex exec -s workspace-write
---model gpt-5.6-sol` audits (NEVER read-only) · `codex exec -s danger-full-access
---model gpt-5.6-terra` fetches · `agy --print-timeout 14m --model gemini-3.6-flash-high
--p` transchecks (size-check the output — zero-byte failure mode).
-Lane scripts in tools/ are self-skipping EXCEPT rework_essay.sh.
+Opus/Fable write · sol audits (codex workspace-write, network-blind, never read-only) ·
+terra fetches (codex danger-full-access) · agy transchecks (size-check output).
+resources/ and tools/log/ never tracked. Commit per milestone with
+Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>. Quotes verbatim or gone (now in
+the apparatus, not the body) · admission never motive · unsupported rows quarantine.
+Length: cap 2,200 / earn to ~3,000 stated (masters); cuts 1,200-1,800.
