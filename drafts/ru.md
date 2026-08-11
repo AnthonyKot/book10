@@ -1,187 +1,152 @@
-# Russia: Line Forty-Eight
+# Russia: The Staircase
 
-The room is furnished before the examinee walks into it. Not their own desk — a second set of
-tables, off to one side, with books on them. The specification for the ninth-grade literature
-exam issues the arrangement as an instruction: «Экзаменуемые по мере необходимости работают с
-текстами за отдельными столами, на которых находятся нужные книги», the examinees work at
-separate tables on which the necessary books lie. And the books are prepared «таким образом,
-чтобы у экзаменуемого не возникало возможности работать с комментариями и вступительными
-статьями к художественным текстам» — so that the examinee cannot work with the commentaries and
-introductory articles bound in with them. Nobody gets a private copy; everybody gets «равные
-условия доступа», equal conditions of access.
+A Russian child enters fifth grade at eleven, and somewhere in Moscow a document already
+knows, year by year, which foreigners they are going to meet on the way up.
 
-So a fifteen-year-old sitting this paper may stand up, cross the room, and open a book whose
-introduction and commentary have been made unusable — one of a set stocked in advance, from a
-list.
+At eleven, the world arrives as story: Andersen's Snow Queen, a choice of Carroll or
+Tolkien, two adventures from a shelf holding Twain, London and Bradbury, an island with
+Stevenson on it. At twelve it gets serious: Homer, in fragments, required; then Defoe's
+island, required; then Swift's giants and academies, required. At thirteen, Cervantes —
+the knight himself, chapters of him — and the Little Prince, whole. At fourteen,
+Shakespeare twice: a sonnet or two of the pupil's choosing, and Romeo and Juliet,
+required, with Molière's bourgeois gentleman for comedy. And at fifteen, the year this
+book measures every country at, the staircase reaches its landing: Dante at the gates of
+the afterlife, Hamlet on the battlements, Faust in his study, Byron's Childe Harold on
+the road — all required — with one further slot where a teacher picks Hoffmann, Hugo or
+Scott.
 
-The list is Appendix 2 of the same document, and its last entry, number 31, is «Произведения
-зарубежной литературы», works of foreign literature. Under that heading it stops naming
-categories and names objects:
+That is a real window, and it is not the one Russia is usually judged by. Judge it by
+the exam and you would conclude the window barely exists: the state examination's
+codifier compresses all foreign literature into a single optional line, a parenthesis
+holding Homer, Cervantes, Shakespeare and Molière as examples a candidate may choose to
+mention. For years that parenthesis was this book's Russian finding. It was the wrong
+document. The exam is the door out of school; the window is on the staircase, and the
+staircase is written down in the federal working program for literature — a document
+that has been legally binding on every accredited Russian school since September 2023.
+The program is not advice. It is the floor plan.
 
-> «Книги с произведениями Гомера (поэмы «Илиада», «Одиссея», возможна хрестоматия
-> с фрагментами поэм), М. Сервантеса (роман «Хитроумный идальго Дон Кихот Ламанчский»,
-> возможна хрестоматия с главами из романа), У. Шекспира (сборник сонетов, пьесы «Ромео
-> и Джульетта», «Гамлет»), Ж.-Б. Мольера (пьеса «Мещанин во дворянстве»)» — "Books with the
-> works of Homer (the poems *Iliad*, *Odyssey*; an anthology of fragments is possible),
-> M. Cervantes (the novel *The Ingenious Hidalgo Don Quixote of La Mancha*; an anthology of
-> chapters is possible), W. Shakespeare (a book of sonnets, the plays *Romeo and Juliet*,
-> *Hamlet*), J.-B. Molière (the play *The Bourgeois Gentleman*)."
+So Russia turns out to run the largest mandatory foreign shelf in this corpus's wave —
+eleven required foreign works or work-groups across the five grades, before any teacher
+makes any choice — and at the same time one of the narrowest. Walk the whole ladder and
+look at who is on it. Homer is ancient Greece; Dante is the Middle Ages; Cervantes,
+Shakespeare and Molière are the sixteenth and seventeenth centuries; Defoe and Swift the
+eighteenth; Goethe, Byron, and the Hoffmann-Hugo-Scott slot the early nineteenth. The
+newest author a Russian pupil is required to read from abroad is Saint-Exupéry, and he
+is there as a fable. Of the twenty-six foreign rows in this table, not one names an
+author from Asia, Africa or Latin America; the non-European world enters only
+anonymously, in the folklore shelves of grade five, as myths and tales of the peoples of
+the world. The window is wide, and it faces in exactly one direction: the European
+classics, ending roughly where the twentieth century begins. Russia's program does not
+import the world. It imports the canon of Europe, as a stated inheritance.
 
-Epic poems or fragments of them, a novel or chapters of it, sonnets and plays: that is what the
-rest of the world is instructed to weigh on a table by the wall.
+And it imports it in pieces. Look again at how the required foreigners arrive: Homer in
+fragments; Defoe and Swift in selected chapters; Cervantes in chapters; Shakespeare's
+tragedy in fragments of the pupil's or teacher's choosing; Dante in at least two
+fragments; Faust in at least two; Childe Harold in at least one. The recurring stamp on
+the foreign shelf is fragments, by choice. Now look at the domestic shelf beside it in
+grade nine: Griboyedov's Woe from Wit, whole. Pushkin's Eugene Onegin, whole. Lermontov's
+A Hero of Our Time, whole. Gogol's Dead Souls, whole. The program's own arithmetic of
+attention is visible on the page: the world is met in excerpts, the homeland in full
+texts. A fifteen-year-old finishes the year having stood briefly at four of European
+literature's summits and having lived inside four Russian books.
 
-## The legal text
+Then there is the question of what the body keeps. The program orders memorization the
+way a codifier never could: by grade nine a pupil must be able to recite at least twelve
+poems learned across the years, and for certain named works the by-heart instruction is
+attached directly — the medieval Lay of Igor's Campaign, Lomonosov's ode on the empress's
+accession, the monologues of Woe from Wit, passages of Dead Souls. Every one of those
+named works is Russian. The five required foreigners of grade nine — Dante, Shakespeare,
+Goethe, Byron twice — carry no memorization instruction at all. In Kazakhstan, this
+book found a program whose every by-heart mandate pointed at foreign, mostly Russian,
+texts; in Ukraine, at foreign texts inside a subject built for them. Russia is the
+mirror: the world is for reading; the memory is for what is Russia's own. On this
+essay's reading — and it is a reading, the program states no such doctrine — the
+staircase teaches a European inheritance to the mind and a national one to the body.
 
-Those books are there because a second document put them there. The saved 2025 package holds
-three files: a demonstration paper; the specification, which governs how the exam is
-administered, down to the furniture; and the *кодификатор*, a codifier, which defines the
-content FIPI — the Federal Institute of Pedagogical Measurements — may test in the 2025 ОГЭ.
-Its opening page draws its own boundary, excluding «элементы содержания, достижение которых не
-может быть проверено в рамках государственной итоговой аттестации» — content whose achievement
-cannot be checked within the state final attestation. It is not an account of what Russian
-children read, but an inventory of what can be put in front of them and graded.
+At the top of the staircase stands the exam, and the two documents part company. Five
+years of required Dante, Homer, Cervantes and Shakespeare narrow, at the door out of
+school, to one optional line. A pupil can climb the entire ladder and never be asked, by
+the state that built it, about anything they saw from it. The program proves what is
+taught; the codifier proves what is counted; and the gap between them is the finding —
+this book can show the gap and cannot explain it, because neither document explains
+itself.
 
-Inside it, Table 3 numbers the checkable elements 1 to 48. Line 1 is «Слово о полку Игореве»,
-the twelfth-century Lay. Line 48 reads, in full:
+If your schooling ran on this staircase, or on one of its Soviet-built cousins, you may
+recognize the sensation from inside: the foreign classics as a sequence of guided
+excursions — brief, chaperoned, in fragments — and the domestic classics as the house
+you actually lived in, whose rooms you can still walk with your eyes closed, because
+whole monologues of it were set into you at fifteen. The window on the staircase was
+real. But the door of the house locks from the inside, and the key was learned by
+heart.
 
-> «Произведения зарубежной литературы: по выбору (в том числе Гомера, М. Сервантеса,
-> У. Шекспира, Ж.-Б. Мольера и др.)» — "Works of foreign literature: by choice (including
-> Homer, M. Cervantes, W. Shakespeare, J.-B. Molière, et al.)"
-
-That is the window: the last line of the table, and a parenthesis inside it.
-
-The codifier is precise about what a row does. «Если в кодификаторе названо конкретное
-произведение, то задания по представленному элементу содержания могут быть включены в любую
-часть экзаменационной работы» — if a specific work is named, tasks on it may appear anywhere in
-the paper. Where none is named, the choosing moves: «выбор осуществляет экзаменуемый». Line 48
-names no work. It names four writers as instances of a category, sets that category across
-grades 5–9 — the widest span in the table, shared only with Pushkin's and Lermontov's poems —
-and marks it present in earlier years' codifiers too. The world's row is not new, and not
-narrow in years. It is narrow in specification.
-
-## The forty-seven
-
-The other forty-seven rows are domestic, and arranged like a genealogy: the anonymous
-twelfth-century Lay first, then Lomonosov, born 1711, the earliest named individual, then
-forward to writers who died within living memory. How many people that is, the rows do not say
-— several carry a dozen authors or more apiece. But the nineteenth-century names on it are,
-elsewhere in this book's corpus, an export: the Belarusian, Kazakh, Ukrainian, American, Indian
-and Vietnamese tables carry rows coded as translated from Russian, naming Pushkin, Gogol,
-Dostoevsky, Tolstoy or Chekhov among them. This is the shelf other countries borrow from.
-
-On historical subject the table is mostly silent, because most rows name no work: twenty-five
-carry `various/unspecified`, the foreign row among them. Of the twenty-one with a dated or
-named subject, all are domestic, including all five that name a war or a conquest. That places
-the rows; it does not say who was fighting, and the table has no field for that.
-
-Three rows open the door wider without leaving the family. Items 45 and 46 list twenty-three
-prose entries and nineteen poets of the late nineteenth to twenty-first centuries — Bulgakov,
-Nabokov, Platonov, Akhmatova, Brodsky, Vysotsky — as selectable authors rather than fixed
-works. Item 47 is «Литература народов Российской Федерации», the literature of the peoples of
-the Russian Federation: Gamzatov, Karim, Tukay, Kuliev «и др.» The codifier prints that heading
-and those four names, does not say what languages they wrote in, and stops. The table codes the
-row domestic, following the codifier, and by the document's own logic the coding is right: the
-line between ours and foreign is drawn by state, not by language.
-
-## What Jourdain hears
-
-The named foreigners stop early. Antiquity, the Renaissance, the Baroque, and then nothing:
-Molière, the latest of them, died in 1673 — thirty-eight years before Lomonosov, the earliest
-named individual on the domestic list, was born. That gap is not the start of the domestic
-canon, which opens centuries earlier with the anonymous Lay; it is a gap between two dates in
-one table. Neither document says why these four names and no fifth.
-
-What the examples *can* be read for is the errand, because the codifier prints the vocabulary
-in which any admitted work is to be discussed — a list of terms that «не имеет статуса научной
-классификации и носит прикладной характер», of no scientific standing and applied character. A
-Part 2 essay is scored partly on «Опора на теоретико-литературные понятия», reliance on those
-concepts. Among them: «Речевая характеристика героя», the speech-characterization of a
-character, and «Пафос (героический, трагический, комический). Юмор, ирония, сатира, сарказм,
-гротеск».
-
-Set those against the appendix entry for Molière: «Мещанин во дворянстве», and nothing after
-it. Jourdain hires masters to teach him what a gentleman knows, and is told, as the great
-discovery of his education, that he has been speaking prose all his life without knowing it.
-The joke is exactly a *речевая характеристика героя*: a man hears his own speech named and
-finds it is the thing that has been placing him all along. What comes through that row, in the
-door's own vocabulary, is a comic form for the distance between what a person is and what he is
-taken for. Whether anyone intended it, the documents are silent.
-
-## What «и др.» leaves open
-
-The parenthesis is not the edge of the world, and the codifier says so on the page after Table
-3 — in four ways, which do not all open the same.
-
-Line 48 carries its own «и др.», attached to a category naming no work. The poem list is open
-without qualification: «в заданиях КИМ могут быть предложены для анализа стихотворения, не
-названные в кодификаторе», poems it does not name may be set for analysis. An essay may be set
-on a writer whose works it does not name, or on neither writer nor work — «выбор литературного
-материала также осуществляет экзаменуемый». And an examinee may draw on «произведения из
-кодификатора ОГЭ, а также из круга своего чтения (если формулировка темы это разрешает)» — the
-codifier's works and their own reading, where the topic permits, rap lyrics, pop songs, comics,
-manga, fan fiction and graphic novels excluded by name. That one runs as far as the topic does
-and no further, and the examinee does not set the topic.
-
-Then two footnotes grant more, and both are bounded. One licenses «прозаические произведения
-отечественной литературы XX–XXI вв., не обозначенные в кодификаторе» — undesignated prose of
-*domestic* literature of the twentieth and twenty-first centuries: a door that opens inward by
-its own wording. The other hangs on the row of twentieth-century poets, not on line 48.
-
-So the sealing is not simple. The examinable world is not shut at four names — but the widest
-openings are drawn around domestic writing, and not every unsealing is a foreign one.
-
-Section 3, meanwhile, ties the exam to the program's personal outcomes, among them a respectful
-attitude toward «ценностям народов России и народов мира», the values of the peoples of Russia
-and of the peoples of the world. In the table of the checkable those peoples hold one row, and
-on it a category, four examples, and no title.
-
-One more line matters, because memory is where most canons keep their deepest hold on a child's
-body. Table 2 requires «не менее 12 произведений и (или) фрагментов» read expressively,
-including by heart — without saying which, and without assigning any share of the twelve to
-memory. So all forty-eight rows carry `memorize: no`: the coding rule wanted a *named* text
-mandated to be learned by heart, and this language names none. What a Russian teenager holds in
-memory is real, and decided a level below this document.
-
-## The parenthesis
-
-You sat some exam once, in a room somebody had furnished before you got there. Whatever was
-allowed on the desk that morning had been decided months earlier by a person you never met,
-working from a list you never saw, and it did not feel like a decision — it felt like the shape
-of the room.
-
-Here the shape is a set of tables: the needed books, several copies, introductions made
-unusable, equal access for all. Should a ninth-grader there want a foreign text, what has been
-ordered for them is Homer, Cervantes, Shakespeare and Molière. Which of them anyone reaches
-for, neither document can say, and neither can this table.
-
-A parenthesis is a mark meaning *this is included, and it is not the sentence*. Line 48 is the
-sentence's parenthesis, and inside it the codifier puts examples where another document would
-put a canon. What the two together establish is narrower and stranger than a shelf: a
-predominantly domestic genealogy, reaching back to the twelfth century in a Russian-language
-exam document, on which the rest of the world holds one row; a table at the side of a room with
-certain books on it; and rules under which an examinee may bring more than either list prints —
-while neither prints the more.
+One honesty paragraph to close. This is the federal program as printed for 2024, a
+one-year slice: it proves what the state requires to be taught, not what any classroom
+did with it, and the fragments-by-choice stamps mean two pupils on the same staircase
+may have met quite different pieces of the same Dante. The exam contrast uses the
+codifier only for what it is — the narrower, older instrument this chapter's first
+version mistook for the whole window. And the reading of memory against inheritance is
+this essay's, offered for inspection; the program mandates lists, hours and recitations,
+and gives reasons for none of them.
 
 ---
 
 ## Receipts
 
-**Corpus.** `corpus/ru-2025.tsv`, 48 data rows, repaired per `notes/recon-ru-2025.md` (28 `subject_era`, 27 `memorize`, 27 `note` edits; 0 quarantined); `notes/confirm-ru-2025.md` caveats honored. Prose above rests on it only for a row's author, work, dates, origin, grade span, `memorize` and `subject_era`.
+**Corpus.** `corpus/ru-frp-2024.tsv`, 40 data rows; every per-work and count claim above
+comes from it. Built 2026-08-11 from the program's text layer; blind-confirmed
+(`notes/confirm-ru-frp-2024.md`: 40 rows, 0 hallucination flags, grade lists verified
+complete) and reconciled (`notes/recon-ru-frp-2024.md`: 7 era edits, 0 memorize edits,
+0 quarantined). Structure: grade 9 complete (20 rows: 14 domestic + 6 foreign); grades
+5–8 foreign rows only (7/5/5/3), so domestic totals exist for grade 9 alone and no
+whole-school domestic share is ever stated.
 
-**Numbers spoken in prose, from the table.** 48 rows. `origin`: 47 domestic, 1 translated. `memorize`: `no` on all 48. `subject_era`: 25 `various/unspecified`, 2 `none/…`, 21 dated or named (25 + 2 + 21 = 48); five of the 21 name a war or a conquest — rows 1, 16, 17, 41, 42 — all domestic. Grade span `5-9` on rows 9, 14 and 48, the widest. Molière `author_died` 1673; Lomonosov `author_born` 1711, earliest for a named individual; 1711 − 1673 = 38. Items 45, 46: 23 and 19 comma-separated `author` entries — entries, not persons.
+**Numbers.** 26 foreign rows total; mandatory foreign rows 11 (grade 6: Homer, Defoe,
+Swift; grade 7: Cervantes, Saint-Exupéry; grade 8: Romeo and Juliet, Molière; grade 9:
+Dante, Hamlet, Faust, Childe Harold); the rest choice-list. Foreign origins: english 12,
+various (multi-author choice slots) 7, french 2, spanish 1, italian 1, german 1,
+danish 1, ancient-greek 1. `memorize` = yes on 4 rows, all domestic, all grade 9
+(«Слово о полку Игореве»; Lomonosov's accession ode; «Горе от ума»; «Мёртвые души»);
+the ≥12-poems recitation floor is the grade-9 outcome «выразительно читать стихи и
+прозу, в том числе наизусть (не менее 12 поэтических произведений, не выученных
+ранее)». No foreign row carries a memorize value other than `no`.
 
-**Defining document.** Кодификатор проверяемых требований … и элементов содержания для проведения основного государственного экзамена по ЛИТЕРАТУРЕ, 9 класс, 2025 г.; ФГБНУ «Федеральный институт педагогических измерений»; © Федеральная служба по надзору в сфере образования и науки; `https://doc.fipi.ru/oge/demoversii-specifikacii-kodifikatory/2025/li_9_2025.zip`, retrieved 2026-08-10; saved as `resources/ru_2025/ЛИ-9 ОГЭ 2025_КОДИФ.pdf`, `_СПЕЦ.pdf`, `_ДЕМО.pdf`, text layers `kodif_2025.txt`, `kodif_2025_layout.txt`. Quotations verbatim from those layers, renderings mine; pages as printed («n / 18»): 2 scope, 7 Table 2 item 8, 12 item 48 and the rules of choice, 13–14 terms, 17–18 outcomes. Footnote 3 is the domestic-prose permission, footnote 4 is attached to item 46. Section 3 is paraphrased apart from «ценностям народов России и народов мира».
+**Defining document.** Федеральная рабочая программа основного общего образования.
+Литература (5–9 классы), Москва, 2024 (edition incorporating Minprosveshcheniya Order
+No. 171 of 19 March 2024; parent instrument approved by Order No. 370 of 18 May 2023).
+Official electronic edition:
+`https://edsoo.ru/wp-content/uploads/2024/06/frp_literatura_5_9_04062024.pdf`, retrieved
+2026-08-11; local copy `resources/ru_frp_literatura_5-9_2024.{pdf,txt}`, SHA-256 in
+`resources/ru-program-source-note.txt`. Legal force: direct mandatory application of
+federal working programs in the compulsory part since 1 September 2023 under Federal
+Law No. 371-FZ of 24 September 2022 (amending Art. 12(6.3) of Law No. 273-FZ) — the
+basis for "legally binding" above.
 
-**Specification, same package.** Спецификация КИМ ОГЭ 2025 г. по литературе, 9 класс: §9 room logistics; §10 the criterion «Опора на теоретико-литературные понятия»; Приложение 2, p. 20, entry 31, printing the foreign books quoted above. A named document, never corpus: no row derives from it, its titles are not corpus works, none is counted. (No appendix entry for item 47; of its four poets only Gamzatov, at entry 30.)
+**The exam contrast.** The codifier characterization (one optional foreign-literature
+line with Homer, Cervantes, Shakespeare, Molière as examples) is from
+`corpus/ru-2025.tsv` and its defining ЕГЭ/ОГЭ codifier documents in `resources/`,
+retained in the corpus as the exam-door instrument. This chapter supersedes the
+codifier-based essay (git history, drafts/ru.md before 2026-08-11) as the country
+chapter; the codifier remains citable for the exam door only.
 
-**Non-table facts, flagged.** The «+» against item 48 in Table 3's earlier-codifiers column is a document field. The «Мещанин во дворянстве» reading is the play read through the codifier's own terms; the plot detail is the play's. The export claim is from sibling files — rows coded `translated:russian` naming Pushkin, Gogol, Dostoevsky, Tolstoy or Chekhov in `by-2024.tsv`, `kz-2023.tsv`, `ua-2024.tsv`, `us-2024.tsv`, `in-2025.tsv`, `vn-2024.tsv`, collectively and not every name in every file; no count across them is offered. Gogol is a domestic row here and a *foreign-literature* row in `ua-2024.tsv` (Nikolenko program), receipted in both.
+**Fragment stamps.** «фрагменты по выбору», «главы по выбору», «не менее двух
+фрагментов по выбору» as printed per row in the program's content lists; each row's
+`note` column locates its stamp.
+
+**Non-table facts used.** The identification of authors' literatures with
+regions/periods (Homer ancient Greece, Dante medieval Italy, etc.) is standard
+literary-historical reference carried by the table's origin and era codings; the
+Kazakhstan and Ukraine memorization contrasts cite `corpus/kz-2023.tsv` (12 memorize
+rows, all foreign-coded) and `corpus/ua-2024.tsv` (5, all foreign-coded) as established
+in their own chapters.
 
 ## Limits
 
-- **One year, one package.** Grade 9 ОГЭ 2025 — codifier for testable content, specification for administration; the Grade 11 ЕГЭ list is another document, not in this corpus. Both speak of «участники экзамена», not of every ninth-grader.
-- **A codifier is not a classroom; a category is not a work.** It holds only checkable elements. A foreign novel absent from line 48's examples may still be read in a Russian classroom, and nothing here shows that any foreign book is read or examined.
-- **Rows are not authors.** Items 21, 45, 46 and 47 carry several people each or many, and row 1's author is unknown, so its dates date the *Lay*. No count of authors, by century or otherwise, can be taken from this table, and none is offered.
-- **Appendix 2 is document evidence, not corpus.** Its foreign titles have no rows in `ru-2025.tsv`; they are quoted as what the specification prints, never counted or set against row counts.
-- **Openings are permissions, not supply.** Line 48's «и др.», the open poem list, the own-reading permission and the two footnotes establish what the documents allow — not that a further foreign work was stocked, set, read or examined. Both footnotes are bounded: one to domestic prose of the twentieth and twenty-first centuries, one to the poets' row.
-- **Motive is not in the corpus.** No ministry statement of reasons for item 48's size or wording was located in `resources/`; the contrast with Section 3 is one the text itself makes.
-- **Memorization codings are conservative by rule.** An explicit mandate to learn a *named* text by heart was required; «не менее 12 произведений и (или) фрагментов» names none, so all 48 rows read `no` — which does not mean Russian pupils memorize nothing.
+- One document, one year, teaching not uptake: the program mandates content; no
+  classroom observation, textbook, or exam-performance data is in this corpus.
+- Grades 5–8 domestic rows were deliberately not extracted; no claim above depends on
+  them, and no whole-ladder domestic/foreign share is stated anywhere.
+- `subject_era` is the compiler's coding (7 values adjusted in reconciliation); the
+  Europe-facing characterization rests on author identities and the program's own
+  section structure, not on era statistics.
+- The memory-vs-inheritance reading and the staircase framing are the essay's;
+  admission never motive, here as everywhere.
