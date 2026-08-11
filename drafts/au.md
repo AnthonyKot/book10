@@ -34,6 +34,17 @@ specific texts for study, teachers should consider the ethos of the school and i
 community." A row in this table is not something a pupil will meet; it is something a
 pupil's teacher may offer.
 
+And there is an age line above this door that has to be drawn before anything is counted.
+At fifteen — the age this book measures every other country at — Australia names no book.
+The national curriculum for Years 9–10 asks for categories: wide-ranging Australian and
+world authors, First Nations Australian texts, different cultures and times. The NSW
+syllabus for the same years adds quantities — so many novels, so many films — and exactly
+one proper noun: at least one Shakespeare play, title unnamed. That is the entire named
+canon of an Australian fifteen-year-old: one surname. The 140-title menu below opens two
+years later, in elective senior courses — Advanced, Extension — for the minority who have
+chosen literature as a path. This table is therefore not a generation's canon. It is the
+specialists' shelf, and everything counted from it below should be read that way.
+
 The mechanics are worth being exact about, because everything else depends on them. An
 Advanced student closely studies "FOUR PRESCRIBED TEXTS, one drawn from EACH of the
 following categories" — Shakespearean drama, prose fiction, poetry or drama, and a fourth
@@ -173,6 +184,15 @@ English Prescriptions 2019–2026*, NSW Education Standards Authority, updated M
 `doc_year` 2024; retrieved 2026-08-11 from
 `https://www.nsw.gov.au/sites/default/files/noindex/2025-04/2024-english-prescriptions-2019-2026-english-stage-6-prescriptions-modules-electives-and-texts.pdf`.
 All 140 rows carry this single source and `exam_status` `choice-list`.
+
+**Year 9–10 receipt for the age line.** ACARA Australian Curriculum English Year 9–10
+(v9) and NESA English K–10 Stage 5, both retrieved 2026-08-11 and saved in `resources/`
+(`au-acara-english-y9-10.*`, `au-nesa-english-stage5.*`, with
+`au-y910-source-note.txt` recording URLs and the verification): neither names a
+mandatory literary work title for Years 9–10; NESA's Stage 5 selection rule requires
+"at least 2 drama texts (including at least one Shakespeare play in Stage 5)" — one
+named author, no named title. ACARA's language is categorical ("wide-ranging Australian
+and world authors", "First Nations Australian" texts).
 
 **Second-state receipt for the federal door.** *VCE English and English as an Additional
 Language (EAL) Text List*, Victorian Curriculum and Assessment Authority, annual,
