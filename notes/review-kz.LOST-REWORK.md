@@ -1,0 +1,23 @@
+> ORPHAN: this audits the kz rework draft of 2026-08-11 13:26 (3,190 words), which was
+> overwritten at 13:48 by a git checkout and no longer exists. Line refs point at a file
+> that is gone. Kept because the FINDINGS are real and apply to the next kz rework attempt.
+
+FIX THEN SHIP
+
+## REQUIRED fixes
+
+1. **Correct the claim that every omitted foreign work is Russian.** The body and Limits say this twice (`drafts/kz.md:66-67`, `drafts/kz.md:264-266`), but the omitted first-quarter Appendix 48 list includes Chingiz Aitmatov's «Плаха» (`resources/kz_curriculum_2022.txt:165611-165614`). Under this corpus's own origin convention, Aitmatov is `translated:kyrgyz`, as both transcribed Aitmatov rows show (`corpus/kz-2023.tsv:53`, `corpus/kz-2023.tsv:63`). The broader conclusion can survive—adding the omitted entries would still leave Russian-origin rows a majority—but the stated premise is false and the Limits section must not repeat it.
+
+2. **Call the numerical units rows or list entries, not works, and do not turn the `translated:*` bucket into a claim about the classroom copy.** The verified arithmetic is 62 rows = 35 domestic + 27 `translated:*`; the appendix splits and the 12 memorization rows also check. But the repeated “fourteen works” and “nineteen works” claims (`drafts/kz.md:11-18`, `drafts/kz.md:176-180`) are only row counts. Individual rows can bundle several works—Pushkin's lyric plus «Цыганы» (`corpus/kz-2023.tsv:23`) and Chekhov's two teacher-choice stories (`corpus/kz-2023.tsv:33`)—so the number of works is not fourteen or nineteen. Likewise, thirteen Appendix 40 rows are coded `translated:russian`; that does not establish that Russian works in a Russian-medium course are read in translation. The essay itself concedes that `origin` codes literary placement, not the language of the copy (`drafts/kz.md:83-88`, `drafts/kz.md:274-277`). Use “non-domestic,” “foreign-origin,” or the literal code label rather than unqualified “translated.”
+
+3. **Make Receipts and Limits honest about the non-table identity and language claims.** Limits says the corpus records no language of composition or birthplace and that “nothing above claims either” (`drafts/kz.md:274-277`), while the body calls Gundarev Russian-writing and Gogol “Ukrainian-born, Russian-language” (`drafts/kz.md:83-90`); it also calls Asimov American (`drafts/kz.md:172`). None of those facts is in the TSV, and the “Non-table facts used” receipt lists only plan facts, omitted works, and four plots (`drafts/kz.md:238-241`). Either add reliable receipts for these identity facts and state that exception accurately in Limits, or remove them. Also revise “all per-work claims rest on” the TSV (`drafts/kz.md:192-195`), which already conflicts with the acknowledged plot paraphrases.
+
+4. **Add the required work-level errand close-read.** The contract requires “at least one work read closely enough to say what feeling is being imported” (`AGENT.md:41-42`). The draft instead announces that comparing quarter headings is “the closest thing to a close-read” (`drafts/kz.md:93-96`), then summarizes four plots and aggregates repaired `subject_era` labels. That is a document-heading analysis, not a close-read of a work. Read at least one listed work from a named edition, connect a concrete textual moment to the programme's own teaching language, and receipt the edition. The existing “empire's own wounds” paragraph is properly labeled as the essay's inference, but it cannot substitute for this fixed beat.
+
+5. **Remove or make verbatim the quoted phrase «типовые учебные программы».** The saved document uses the singular «Типовая учебная программа» for an appendix (for example `resources/kz_curriculum_2022.txt:89283-89290`) and the genitive plural «типовых учебных программ» in the order title (`drafts/kz.md:207-209`); the nominative plural phrase quoted at `drafts/kz.md:27-29` was not found in the defining document. Under the verbatim-or-gone rule (`AGENT.md:4-7`), paraphrase it without quotation marks or quote an exact form. The other substantive document quotations checked are verbatim after the disclosed repair of layout-created whitespace.
+
+## OPTIONAL suggestions
+
+- Keep the explicit refusals to infer motive or rank the unlike doors for openness; both comply with `CONTEXT.md:87-96` and `AGENT.md:50-56`.
+- Tighten “the wounds that quarter carries are the empire's own” to “three of the four rows...” so the sentence cannot appear to absorb «Гранатовый браслет», coded `none/romance`, into the wound map.
+- The narrative body is about 2,042 words and fits the 1,200–2,500-word target; the full file is about 3,190 words, so trim receipts only if the production word limit includes back matter.
