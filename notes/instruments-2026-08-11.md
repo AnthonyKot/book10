@@ -201,3 +201,33 @@ foreign-coded), Ukraine (5 of 5 foreign-coded), Belarus (4 of 6 domestic, 2 of 6
 Russian-coded). Summary line 4 above is superseded accordingly; lines 1–3 are
 unaffected (the codifier's foreign rows and the FRP's foreign rows do not change the
 per-work admission maxima).
+
+## Addendum 2, 2026-08-12 (late) — §2 recount against corpus/ru-frp-2024.tsv
+
+The first addendum asserted that summary lines 1–3 were unaffected by the RU rebuild.
+Line 2's work-level maximum WAS affected: the FRP names foreign works that the retired
+codifier's single omnibus row did not. Recounted under §2's own rules (work counted
+once per country when title or gloss identifies the same work; bundles and OR options
+count as admission; generic oeuvre rows not forced into a specific-work match; Russia =
+ru-frp-2024.tsv; ru-2025.tsv retired):
+
+- **Author counts unchanged.** Shakespeare 7 of 17 (au bo kz ru ua us vn) — now
+  without the example-splitting judgment call: the FRP holds three named Shakespeare
+  rows (Sonnets, one-two by choice; *Romeo and Juliet*, fragments, mandatory; *Hamlet*,
+  fragments, mandatory). Homer 4 of 17 (it ru us vn; the FRP row is *Iliad*/*Odyssey*
+  fragments, mandatory). Gogol foreign-coded 4 of 17 (by kz ua us; domestic in ru).
+- **Work-level maximum is now FOUR of 17, not three:** *Gulliver's Travels* —
+  Australia (choice-list, whole work), Bolivia (anthology-only), Ukraine (Part 1,
+  mandatory, grade 9), Russia (chapters by choice, mandatory, grade 6). No other work
+  reaches four. Verified at three of 17 under the same rule: *A Doll's House* (au ua
+  us), *The Overcoat* (by kz ua), *Romeo and Juliet* (kz ru vn — the UK AQA row is
+  domestic-coded and excluded from the foreign shelf), *Hamlet* (au bo ru), *Robinson
+  Crusoe* (bo ru vn), Homer's *Odyssey* (ru fragments, us, vn — Italy's "Homeric
+  poems" bundle not forced to the specific work).
+- **§2 national-poet Russia row, recomputed on the FRP:** Pushkin 3 domestic rows;
+  Lermontov 2; Lomonosov 2. Occupant retained, margin narrowed (the "5 of 47" figure
+  belonged to the retired codifier table).
+- **Stale-report warning:** `notes/window-report.md` predates both the RU rebuild and
+  the BY reconciliation; it still shows a Belarus Hamlet/sonnets row that is no longer
+  in `corpus/by-2024.tsv` (0 Shakespeare rows of its current 82) and shows Russia as
+  the codifier omnibus. Do not cite it for counts.
