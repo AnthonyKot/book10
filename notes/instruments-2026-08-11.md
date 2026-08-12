@@ -170,3 +170,34 @@ Russia has no row passing the filter: zero of 48. Its codifier requires expressi
 2. No unambiguous work is foreign-admitted by more than three of 17, and most files do not single out exactly one domestic national-poet occupant.
 3. Ukraine retains two Russian-coded choice rows, while Kazakhstan contains 21 Russian-coded rows; the tables establish admission, not motive.
 4. The work-specific memorization filter returns six Belarusian, twelve Kazakhstani, and five Ukrainian rows; Russia returns none.
+
+## Addendum 2026-08-12 — reconciliation with the RU rebuild (corpus/ru-frp-2024.tsv)
+
+Sections 5 and the four-line summary above were computed while the Russia file was the
+ЕГЭ-codifier table, which the reader ruled the wrong document (the exam door, not the
+taught door). The replacement table `corpus/ru-frp-2024.tsv` (federal working program,
+40 rows, confirmed and reconciled) changes one instrument:
+
+**§5 THE MEMORIZATION INVENTORY — updated result.** Applying the same counting rule
+(`memorize` exactly `yes` or `excerpt`, after reconciliation, no inference from
+aggregates) to the current tables returns **27 rows in four country files**:
+
+### Russia — four rows (new)
+
+| value | side | author | row title |
+|---|---|---|---|
+| yes | domestic | Unknown author | «Слово о полку Игореве» |
+| yes | domestic | M.V. Lomonosov | Ода на день восшествия… (1747 ode) |
+| yes | domestic | A.S. Griboyedov | «Горе от ума» |
+| yes | domestic | N.V. Gogol | «Мёртвые души» |
+
+All four of Russia's work-specific memorization rows are domestic. (The program's
+separate aggregate recitation floor — poems by heart with no work named — remains
+excluded by the counting rule, as all aggregates are.)
+
+**The memorization triangle, corrected.** Sixteen of the twenty country files sign no
+named text into memory; four do — Russia (4 of 4 domestic), Kazakhstan (12 of 12
+foreign-coded), Ukraine (5 of 5 foreign-coded), Belarus (4 of 6 domestic, 2 of 6
+Russian-coded). Summary line 4 above is superseded accordingly; lines 1–3 are
+unaffected (the codifier's foreign rows and the FRP's foreign rows do not change the
+per-work admission maxima).

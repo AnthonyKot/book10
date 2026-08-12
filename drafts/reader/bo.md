@@ -15,9 +15,9 @@ typesetting.
 Two of those lines are worth stopping on. Daniel Defoe is Spanish here. And Kant is standing
 in a line of literary works, holding the *Critique of Pure Reason*.
 
-Read those five lines next to that staging task — the pairing is this essay's, not something
-the document states — and Bolivia's window stops looking like a shelf of books to be read and
-starts looking like a company of foreigners available to be played.
+Read those five lines next to that staging task, and Bolivia's window stops looking like a
+shelf of books to be read and starts looking like a company of foreigners available to be
+played.
 
 ## The door is an object
 
@@ -25,22 +25,18 @@ Most doors in this corpus are lists: a codifier of what an examiner may ask, a s
 set texts, a ministry program naming units. Bolivia's door is a book. One physical volume, the
 learning text for the fourth year of secondary education, marked *official text 2024* above the
 Minister of Education's name, and at the foot of the same page, in capitals, a line prohibiting
-the sale of this document. What that imprint establishes is the rule about sale — not how
-copies reach anyone, not that any classroom opened them.
+the sale of this document.
 
 It is also everything at once. The same covers carry the endocrine glands and the War of the
-Pacific. The world-literature material this corpus codes is a short stretch of it: five pages
-of tables and a few pages of extracts.
+Pacific. Of it all, world literature is a short stretch: five pages of tables and a few pages
+of extracts.
 
-How hard does this door close? The honest answer is that the corpus cannot say. Every one of
-the twenty-nine rows coded from the volume is anthology-only; not one is tied to an exam, not
-one carries a memorization mandate. The book disclaims itself in its own foreword, calling its
-contents an element that energizes learning, one that can always be widened, deepened and
-contextualized from the experience and reality of each cultural, social and educational
-setting. And it points upward to an instrument this corpus does not hold: its contents, it
-says, follow the Plans and Programs established for each educational level. There is a door
-above this door, and it was not retrieved — so the force of what follows is not light, it is
-unknown. A name printed here is present. It is not thereby required.
+Every one of the twenty-nine rows coded from the volume is anthology-only: not one is tied
+to an exam, not one carries a memorization mandate. The book disclaims itself in its own
+foreword — its contents an element that energizes learning, one that can always be widened,
+deepened and contextualized — and points upward to an instrument it does not print, the
+Plans and Programs established for each educational level. There is a door above this door.
+A name printed here is present; it is not thereby required.
 
 ## The names, and how they are labelled
 
@@ -69,15 +65,14 @@ the audience. For two it is a member of the company.
 Two entries are labelled in ways the document never notices. Defoe, tagged Spain. And Andrés
 Bello, the sole representative author of Costumbrismo — the current about local custom —
 introduced not by a novel but as Simón Bolívar's teacher, holding a treatise on the law of
-nations. The corpus codes that row as an essay. Whatever a pupil presenting Costumbrismo would
-have to present, it is closer to a founding than to a fiction.
+nations. Whatever a pupil presenting Costumbrismo would have to present, it is closer to a
+founding than to a fiction.
 
 One more thing about this company, set against the heading over its head. Of the twenty-five
 foreign rows, twenty-four name a man and one names no author at all. The only woman named
 anywhere among the twenty-nine rows is Bolivian, and she stands five pages past the last table,
 outside the currents entirely — Mónica Paulina Gutiérrez Jiménez, credited for a free
-adaptation of an Ayoreo legend printed under the heading *spelling workshop*. The table records
-placement. It does not record why.
+adaptation of an Ayoreo legend printed under the heading *spelling workshop*.
 
 ## Shakespeare comes on loan
 
@@ -90,33 +85,13 @@ about what dramatic texts are, on a popular psychology site. Two of the question
 are: have you heard of William Shakespeare, and do you find the situation sad or funny?
 
 Adapted, mis-headed, and sourced from an article about dramatic form rather than from the play.
-The world's literature arrives on this page to be recognized and read out, and the corpus
-records no edition behind it.
-
-## The errand: a scruple, six pages later
-
-The clearest imported feeling in this table is not on the literature pages at all. It is later
-in the unit, under a heading about the importance of radio media in the struggle against social
-inequality, where an extract from José Ignacio López Vigil's *Passion for Radio* argues against
-treating a microphone as a weapon. For these chiefs, he writes, the microphones
-were cannons that fired ideas — a sad confusion of levels, because "on military ground one
-wins. But on the ground of ideas one persuades."
-
-He keeps going. Radio in the service of big capital bombards us daily with news that
-misinforms; they practise media terrorism. But we cannot and do not want to play that same
-game, he writes, even in reverse. For ethical reasons.
-
-Where the tables offer periods, this page offers a scruple: the difference between winning and
-persuading, set in front of a fourth-year pupil as a working rule. And the reflection question
-printed under the last table asks the same kind of thing of the literature — pick a current and
-a present-day problem, and say how we would contribute to solving it through the literature of
-that current. Not what the literature is like. What it can be put to.
+The world's literature arrives on this page to be recognized and read out, and no edition of
+the play stands behind it.
 
 ## The object
 
-Some readers were handed a textbook and some were sold one, and those are two different
-childhoods. If you were handed yours — stamped, unsellable, one volume for the whole subject —
-you know that such a book is not a shelf but a fact, the way a room is a fact. Bolivia's
+A book stamped official and forbidden to be sold — one volume for the whole subject,
+however it reaches the desk — is not a shelf but a fact, the way a room is a fact. Bolivia's
 official text for the fourth year sets out the literature of the world as a line of names with
 countries after them: a Frenchman with fables, an Irishman with a giant's country, a
 German philosopher holding the *Critique of Pure Reason* as though it were a novel, an
@@ -125,12 +100,3 @@ dramatization presenting an author and their literary production.
 
 The document never says those names are the cast for that play. It prints them, and it prints
 the task, and the pages invite the comparison.
-
-What this chapter can't know: this is one volume, one year, one grade — the 2024 learning text
-for the fourth year of secondary — and everything in it is an anthology rather than a mandate,
-deferring upward to Plans and Programs this corpus does not hold, so the door's force is
-undetermined rather than demonstrably light. That a book prohibits its own sale says nothing
-about how copies reach pupils or whether any teacher ever taught these pages, and nothing here
-describes a Bolivian classroom. The cast-list reading is this essay's: the document prints the
-emblematic-works cells, and four pages later sets a dramatization task, and never joins the
-two.

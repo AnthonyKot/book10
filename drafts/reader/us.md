@@ -18,7 +18,7 @@ ministry with power to name a book, no national exam codifier, no enforceable li
 kind that anchors every other chapter here; what stands in their place is selection pushed
 down and dispersed. The exam question comes from a course and exam description published by
 the College Board, a private organization, which tells schools that the works themselves are
-selected locally. This chapter's table comes from somewhere else entirely: an appendix to
+selected locally. The titles come from somewhere else entirely: an appendix to
 academic standards that states adopted one at a time, whose own work group made the final
 choice of what it printed. Between them the two documents hold the two things a codifier
 holds — force, and titles — and neither holds both. The exam has force over a score and
@@ -33,10 +33,9 @@ complexity and quality that the standards require students in a grade band to en
 Then the writers close the door they appeared to be opening. "They expressly do not
 represent a partial or complete reading list."
 
-Take that at face value, because the essay depends on it. Every row in this table — all
-sixty-three, the whole ninth-and-tenth-grade band as printed, stories through technical
-subjects — is a choice-list row, and none carries a memorization requirement. Not one of
-these titles is a book an American fifteen-year-old must read. They are specimens of a
+Take the disclaimer at face value. All sixty-three titles, stories through technical
+subjects, are printed as exemplars, not assigned, and none carries a line to learn by heart.
+Not one of them is a book an American fifteen-year-old must read. They are specimens of a
 difficulty level, chosen to show teachers what that level feels like in the hand. The
 criterion of admission the document states is complexity, quality and range. The criterion
 it does not state is nationality.
@@ -51,39 +50,25 @@ like when the choosing is dispersed to a work group, districts, schools and teac
 
 ## What walks in
 
-Forty-one of the sixty-three rows are domestic. Twenty-two are not, and the first thing to
-say about those twenty-two is that eleven of them never met a translator. Shakespeare twice,
+The answer, first, is an inheritance. By this book's own count — the appendix itself tags
+no author with a nationality — forty-one of the sixty-three titles are domestic,
+and of the twenty-two that are not, eleven never met a translator — Shakespeare twice,
 Donne, Shelley, Housman; Achebe's *Things Fall Apart*, Fugard's *"Master Harold"…and the
-boys*, Zusak's *The Book Thief*; three works of exposition, on art, music and mathematics.
-They cross a border that is not a language border. Seven of the eleven are British, and an
-eighth, Keith Devlin, British-American — an inheritance shelf more than an import shelf, the
-family books that came over with the language.
+boys*, Zusak's *The Book Thief* — most of them British, the family books that came over
+with the language.
 
-Eleven rows arrive in translation, and they are old, European and few: three from Greek
-(Homer, Sophocles, Euclid), three from French (Voltaire, Ionesco, Wiesel), two from Russian
-(Gogol's "The Nose," 1836; Turgenev's *Fathers and Sons*, 1862), one each from Latin, German
-and Norwegian. The appendix names the glass as well as the view — Fagles for Homer, Ronald
-Wilks for Gogol, Constance Garnett for Turgenev, Derek Prouse for Ionesco — which is more
-than a citation habit, since the complexity these rows exemplify is the complexity of an
-English page a named translator made.
+The eleven that did meet a translator are old, European and few, and the appendix names
+the glass as well as the view: Fagles for Homer, Ronald Wilks for Gogol's barber who finds
+a nose in his breakfast roll, Constance Garnett for Turgenev, Derek Prouse for Ionesco.
+That is more than a citation habit — the complexity these rows exemplify is the complexity
+of an English page a named translator made. Among the translated eleven, nothing comes
+from Asia, from Latin America, from the Arabic-speaking world; Africa arrives on this
+shelf twice, already in English.
 
-What the translated eleven do not include is worth stating carefully, and only against this
-table: no row from Asia, from Latin America, from the Arabic-speaking world; Africa arrives
-twice, in English. The Russian rows are the tsarist nineteenth century — a barber finding a
-nose in his breakfast roll, a young nihilist arguing with his father — and the Soviet century
-is not on this shelf. The shape of a 2010 work group's result can be reported without a
-reason being assigned to it.
-
-Group the twenty-two by the era each work is set in and the pattern is real but not clean.
-Five foreign rows carry a state consuming people, none of it American: Nazi Germany and the
-Holocaust (Zusak; Wiesel's Nobel lecture), apartheid South Africa (Fugard), the neighbours
-turning into rhinoceroses under 1930s fascism (Ionesco), the district commissioner arriving
-at the end of Achebe's late-nineteenth-century Igbo village. Other foreign rows carry other
-injuries — Voltaire's Lisbon earthquake, Ibsen's marriage, Turgenev's generational quarrel in
-reform-era Russia, *Macbeth*'s regicide — so the grouping supports a lean, not a law. The
-domestic rows hold American injuries, and a great many of them: Jim Crow, the Depression,
-Gettysburg, Wounded Knee, the Red Scare. That placement is what the table shows; the work
-group recorded no reasons.
+Several of the foreign rows carry a state consuming its people, none of it American — the
+Holocaust, the neighbours turning into rhinoceroses under 1930s fascism, apartheid South
+Africa. A lean, not a law; and the South African row is where this shelf does its
+strangest choosing.
 
 ## What a foreign book is for here
 
@@ -95,13 +80,14 @@ exemplars already chosen — and each one closes with a standards code in square
 
 Odysseus, the man of twists and turns, appears in a task that asks students to analyze how
 he reflects conflicting motivations through his dealings with other characters, and how
-those conflicting loyalties develop the poem's themes. Then the code: RL.9–10.3. What the
-task asks of the *Odyssey* is that RL.9–10.3 be practised on it. Two tasks later *Macbeth*
+those conflicting loyalties develop the poem's themes. Then the code, naming the standard
+being exercised. What the task asks of the *Odyssey* is that one numbered skill be
+practised on it. Two tasks later *Macbeth*
 appears as raw material — students analyze how the Japanese filmmaker Akira Kurosawa, in
 *Throne of Blood*, draws on and transforms the play to develop a similar plot set in feudal
-Japan. In these tasks, and they are a use of the books rather than the reason the books were
-chosen, an admitted foreigner's errand is to be an instance of an operation. Not a feeling a
-country cannot source domestically; a skill it can be shown performing.
+Japan. In these tasks an admitted foreigner's errand is to be an instance of an
+operation. Not a feeling a country cannot source domestically; a skill it can be shown
+performing.
 
 And yet the appendix does something no standard requires. It prints excerpts, and somebody
 chose them; the front matter concedes the awkwardness, granting that where excerpts appear
@@ -114,36 +100,20 @@ dancing to the boy: none of us knows the steps, there is no music playing, and i
 stop with us. "America has bumped into Russia, England is bumping into India, rich man
 bumps into poor man." Those are big collisions, he says. They make for a lot of bruises.
 
-A South African play about a South African injury, excerpted at the exact half-page where it
-turns and names the reader's own country first in a list of collisions. The choice is an
-editorial act and a visible one. Its reason is not in the document, and I will not supply
-one.
-
-There is one more constraint on this shelf, and it is not a state's. The same front matter
-explains that where the compilers could not rely on fair use and could not secure
-permission, they listed the title without an excerpt. That establishes exactly this much:
-copyright and permission limited which excerpts could be reproduced, so some titles stand on
-the page without their text. Which titles, and why each permission failed, the document does
-not say.
+A South African play about a South African injury, excerpted at the exact half-page where
+it turns and names America first in a list of collisions. The choice is an editorial act
+and a visible one.
 
 ## The list nobody collects
 
-If your classroom's reading list arrived as a photocopy — stapled, signed by a teacher who
-could have chosen otherwise — you already know the argument over it happened somewhere above
-you and out of sight: a board meeting, a department vote, a publisher's catalogue. That is
-the American arrangement: selection everywhere, and no single national address for it.
+What an American pupil actually reads is set locally, by districts, schools and teachers
+— the kind of choosing that lives in a board meeting, a department vote, a publisher's
+catalogue. That is the American arrangement: selection everywhere, and no single national
+address for it.
 
-Which leaves the exam room. Every other window in this book can be photographed: a codifier
-you can print, a program with page numbers, a spine a pupil carries in a bag. The American
-window has to be reconstructed one answer at a time — a title chosen by a student with a
-recommended forty minutes to spend on it, written into one essay, graded — and nothing here
-ever collects those titles into a list.
-
-What this chapter cannot know: the sixty-three titles above come from a single 2010 appendix
-that says outright it is not a reading list, so nothing here describes a syllabus an American
-pupil actually sat through — what gets read is set by districts, schools and teachers, and
-none of that is in view. The split between domestic and foreign is this book's coding rather
-than the document's, since the appendix tags no author with a nationality, and eleven of the
-twenty-two foreign rows were written in English and never translated at all. And the
-appendix states its criteria while explaining no individual choice — which work was proposed,
-which excerpt cut, whose permission refused — so placement is visible here and motive is not.
+Which leaves the exam room. Every other window in this book can be photographed: a
+codifier you can print, a program with page numbers, a spine a pupil carries in a bag. The
+American window has to be reconstructed one answer at a time, and no document in this
+chapter ever collects those answers into a list. What the country shows instead is the act
+itself: a student, a concept, a recommended forty minutes — and a hand writing in the
+title of the book they brought themselves.

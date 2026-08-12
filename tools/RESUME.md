@@ -1,5 +1,34 @@
 # Book 10 — resume runbook (consolidated 2026-08-11 ~21:45, Opus at 75%, stopping)
 
+## 2026-08-12 UPDATE — polish wave DONE, v7 on GitHub Pages (read this before the rest)
+
+- **Polish wave complete.** All eleven reader cuts (ua vn bo cn br au us in uk + new
+  drafts/reader/ru.md + 00-poem) passed sol audits against the cold sweep AND their
+  masters — trails in notes/review-polish-<cc>.md. Recurring polish hazard sol caught
+  repeatedly: compression hardening a hedged claim into a definite one. Second-person
+  budget: only ua keeps a "you" close; 00 keeps its designed second-person engine.
+- **v7 is published as index.md (GitHub Pages), pushed to origin. Reader ruling
+  2026-08-12: they PREFER GitHub over the claude.ai artifact as the reading surface —
+  the artifact at 10484a25… still holds v6 and was deliberately not updated.**
+  Rebuild the edition with tools/build_reader_edition.sh (spine order, refuses
+  partial builds; index.md = Jekyll front matter + its output).
+- **Instruments memo reconciled** with corpus/ru-frp-2024.tsv (addendum in
+  notes/instruments-2026-08-11.md): memorization inventory is now 27 rows in FOUR
+  files — RU 4/4 domestic (new), KZ 12/12 foreign, UA 5/5 foreign, BY 4+2. The
+  ch00 sixteen/four framing verifies against it.
+- **Interlude prep done:** fact sheets for de mx mn jp it be ch no kz in
+  tools/log/interlude-facts/ (untracked — regenerate if lost; sol/grok extraction).
+- **Assembly scaffolding built** (terra): ASSEMBLY.md, TEMPLATE.md, verify.sh,
+  chapters/ — verify.sh passes with one expected warning (no index.html yet).
+- **Engines note:** grok exhausted (2% left, retired for now); agy untouched today;
+  codex fine after the account switch.
+- **Flags awaiting the reader:** BY question (b) — what they memorized — STILL OPEN
+  (open-form, never a menu). br audit forced cuts past their "keep everything" note
+  (Lebanese-Manaus/Italian-São-Paulo para gone from cut, safe in master). us has two
+  cosmetic SUGGESTED items left deliberately for their star pass.
+- **Next:** BY answer → BY essay + ch00 Belarus beat check; reader stars on v7;
+  interlude chapter from the fact sheets; closing chapter; chapters/ assembly.
+
 ## READ FIRST — the evening's five reader rulings (all binding, all in AGENT.md)
 
 1. **English carries the prose** — no foreign-language text in the load-bearing position.
